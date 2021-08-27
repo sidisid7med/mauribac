@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="278" height="83" viewBox="0 0 278 83">
+  <defs>
+    <filter id="Input" x="0" y="0" width="278" height="83" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-color="#044468" flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Search-Input" transform="translate(9 6)">
+    <g transform="matrix(1, 0, 0, 1, -9, -6)" filter="url(#Input)">
+      <rect id="Input-2" data-name="Input" width="260" height="65" rx="16" transform="translate(9 6)" fill="#fff"/>
+    </g>
+    <text id="Primitives" transform="translate(199 39)" fill="#688fa4" font-size="20" font-family="Tajawal-Bold, Tajawal" font-weight="700"><tspan x="-175.18" y="0">ادخل رقم الطالب (ة)</tspan></text>
+    <g id="Search" transform="translate(212 20.597)">
+      <path id="Shape" d="M21.439,23.561,16.788,18.91A10.5,10.5,0,1,1,10.5,0V3A7.5,7.5,0,1,0,18,10.5,7.5,7.5,0,0,0,10.5,3V0A10.5,10.5,0,0,1,18.91,16.788l4.652,4.651a1.5,1.5,0,0,1-2.122,2.122Z" fill="#3b6d89"/>
+    </g>
+  </g>
+</svg>

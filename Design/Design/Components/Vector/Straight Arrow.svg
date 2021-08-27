@@ -1,0 +1,79 @@
+<svg id="Straight_Arrow" data-name="Straight Arrow" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="147" height="475" viewBox="0 0 147 475">
+  <defs>
+    <clipPath id="clip-path">
+      <rect width="147" height="475" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Straight_Arrow-2" data-name="Straight Arrow" clip-path="url(#clip-path)">
+    <g id="Straight_Arrow-3" data-name="Straight Arrow" transform="translate(0 -2.5)">
+      <path id="Path" d="M0,.5H118.449" transform="translate(4 17.5)" fill="none" stroke="#6b91a6" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="4"/>
+      <g id="Oval" transform="translate(16 26) rotate(180)" fill="#044468" stroke="#6b91a6" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="4">
+        <circle cx="8" cy="8" r="8" stroke="none"/>
+        <circle cx="8" cy="8" r="6" fill="none"/>
+      </g>
+      <g id="Flow_Arrow" data-name="Flow Arrow" transform="translate(-15 -2.5)">
+        <g id="Rectangle_147614" data-name="Rectangle 147614" transform="translate(93 7)" fill="#044468" stroke="#6b91a6" stroke-width="2">
+          <rect width="50" height="28" rx="14" stroke="none"/>
+          <rect x="1" y="1" width="48" height="26" rx="13" fill="none"/>
+        </g>
+        <text id="Label" transform="translate(118 26)" fill="#fff" font-size="14" font-family="Tajawal-Medium, Tajawal" font-weight="500"><tspan x="-12.943" y="0">12px</tspan></text>
+      </g>
+    </g>
+    <g id="Straight_Arrow-4" data-name="Straight Arrow" transform="translate(0 108.5)">
+      <path id="Path-2" data-name="Path" d="M0,.5H118.449" transform="translate(4 17.5)" fill="none" stroke="#6b91a6" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="4"/>
+      <g id="Oval-2" data-name="Oval" transform="translate(16 26) rotate(180)" fill="#044468" stroke="#6b91a6" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="4">
+        <circle cx="8" cy="8" r="8" stroke="none"/>
+        <circle cx="8" cy="8" r="6" fill="none"/>
+      </g>
+      <g id="Flow_Arrow-2" data-name="Flow Arrow" transform="translate(-15 -2.5)">
+        <g id="Rectangle_147614-2" data-name="Rectangle 147614" transform="translate(93 7)" fill="#044468" stroke="#6b91a6" stroke-width="2">
+          <rect width="50" height="28" rx="14" stroke="none"/>
+          <rect x="1" y="1" width="48" height="26" rx="13" fill="none"/>
+        </g>
+        <text id="Label-2" data-name="Label" transform="translate(118 26)" fill="#fff" font-size="14" font-family="Tajawal-Medium, Tajawal" font-weight="500"><tspan x="-13.16" y="0">16px</tspan></text>
+      </g>
+    </g>
+    <g id="Straight_Arrow-5" data-name="Straight Arrow" transform="translate(0 219.5)">
+      <path id="Path-3" data-name="Path" d="M0,.5H118.449" transform="translate(4 17.5)" fill="none" stroke="#6b91a6" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="4"/>
+      <g id="Oval-3" data-name="Oval" transform="translate(16 26) rotate(180)" fill="#044468" stroke="#6b91a6" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="4">
+        <circle cx="8" cy="8" r="8" stroke="none"/>
+        <circle cx="8" cy="8" r="6" fill="none"/>
+      </g>
+      <g id="Flow_Arrow-3" data-name="Flow Arrow" transform="translate(-15 -2.5)">
+        <g id="Rectangle_147614-3" data-name="Rectangle 147614" transform="translate(92 7)" fill="#044468" stroke="#6b91a6" stroke-width="2">
+          <rect width="52" height="28" rx="14" stroke="none"/>
+          <rect x="1" y="1" width="50" height="26" rx="13" fill="none"/>
+        </g>
+        <text id="Label-3" data-name="Label" transform="translate(118 26)" fill="#fff" font-size="14" font-family="Tajawal-Medium, Tajawal" font-weight="500"><tspan x="-14.203" y="0">24px</tspan></text>
+      </g>
+    </g>
+    <g id="Straight_Arrow-6" data-name="Straight Arrow" transform="translate(0 330.5)">
+      <path id="Path-4" data-name="Path" d="M0,.5H118.449" transform="translate(4 17.5)" fill="none" stroke="#6b91a6" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="4"/>
+      <g id="Oval-4" data-name="Oval" transform="translate(16 26) rotate(180)" fill="#044468" stroke="#6b91a6" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="4">
+        <circle cx="8" cy="8" r="8" stroke="none"/>
+        <circle cx="8" cy="8" r="6" fill="none"/>
+      </g>
+      <g id="Flow_Arrow-4" data-name="Flow Arrow" transform="translate(-15 -2.5)">
+        <g id="Rectangle_147614-4" data-name="Rectangle 147614" transform="translate(92 7)" fill="#044468" stroke="#6b91a6" stroke-width="2">
+          <rect width="52" height="28" rx="14" stroke="none"/>
+          <rect x="1" y="1" width="50" height="26" rx="13" fill="none"/>
+        </g>
+        <text id="Label-4" data-name="Label" transform="translate(118 26)" fill="#fff" font-size="14" font-family="Tajawal-Medium, Tajawal" font-weight="500"><tspan x="-13.79" y="0">32px</tspan></text>
+      </g>
+    </g>
+    <g id="Straight_Arrow-7" data-name="Straight Arrow" transform="translate(0 441.5)">
+      <path id="Path-5" data-name="Path" d="M0,.5H118.449" transform="translate(4 17.5)" fill="none" stroke="#6b91a6" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="4"/>
+      <g id="Oval-5" data-name="Oval" transform="translate(16 26) rotate(180)" fill="#044468" stroke="#6b91a6" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="4">
+        <circle cx="8" cy="8" r="8" stroke="none"/>
+        <circle cx="8" cy="8" r="6" fill="none"/>
+      </g>
+      <g id="Flow_Arrow-5" data-name="Flow Arrow" transform="translate(-15 -2.5)">
+        <g id="Rectangle_147614-5" data-name="Rectangle 147614" transform="translate(91 7)" fill="#044468" stroke="#6b91a6" stroke-width="2">
+          <rect width="54" height="28" rx="14" stroke="none"/>
+          <rect x="1" y="1" width="52" height="26" rx="13" fill="none"/>
+        </g>
+        <text id="Label-5" data-name="Label" transform="translate(118 26)" fill="#fff" font-size="14" font-family="Tajawal-Medium, Tajawal" font-weight="500"><tspan x="-14.798" y="0">40px</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>

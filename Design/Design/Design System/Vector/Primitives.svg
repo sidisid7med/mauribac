@@ -1,0 +1,407 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="2559" height="1348.6" viewBox="0 0 2559 1348.6">
+  <defs>
+    <clipPath id="clip-path">
+      <rect width="171" height="482" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <rect width="147" height="475" fill="none"/>
+    </clipPath>
+    <filter id="Square" x="1554" y="1044.6" width="143" height="145" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-color="#044468" flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Square-2" x="1354" y="1044.6" width="143" height="145" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-2"/>
+      <feFlood flood-color="#044468" flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-path-3">
+      <rect width="392" height="31" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-4">
+      <rect width="147" height="339" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-5">
+      <rect width="171" height="204" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-Primitives">
+      <rect width="2559" height="1348.6"/>
+    </clipPath>
+  </defs>
+  <g id="Primitives" clip-path="url(#clip-Primitives)">
+    <rect width="2559" height="1348.6" fill="#fff"/>
+    <g id="Primitives-2" data-name="Primitives" transform="translate(1231 4669.6)">
+      <rect id="Section" width="2559" height="1348.597" transform="translate(-1231 -4669.597)" fill="#f5f7fb"/>
+      <g id="Sidebar" transform="translate(-1231 -4668.5)">
+        <rect id="Primitives_Sidebar" data-name="Primitives Sidebar" width="428" height="1347.5" fill="#044468"/>
+        <text id="There_are_offcourse" data-name="There are offcourse" transform="translate(55 350.962)" fill="#fff" font-size="24" font-family="Tajawal-Medium, Tajawal" font-weight="500"><tspan x="0" y="24">There are offcourse no hard </tspan><tspan x="0" y="57">rule to folow guidelines when </tspan><tspan x="0" y="90">you designing wireframe or ui. </tspan><tspan x="0" y="123">But if you follow it will be good.</tspan></text>
+        <text id="Primitive_defines_th" data-name="Primitive defines th" transform="translate(55 183.929)" fill="#fff" font-size="24" font-family="Tajawal-Medium, Tajawal" font-weight="500"><tspan x="0" y="24">Primitive defines the base of </tspan><tspan x="0" y="57">bloouikit. You can find text </tspan><tspan x="0" y="90">block, colors, placeholders and </tspan><tspan x="0" y="123">basic shapes here.</tspan></text>
+        <path id="Path_5" data-name="Path 5" d="M37.47.5h282.4" transform="translate(25 146)" fill="#fff" stroke="#fff" stroke-miterlimit="10" stroke-width="3"/>
+        <text id="Primitives-3" data-name="Primitives" transform="translate(50.484 94.345)" fill="#fff" font-size="50" font-family="Tajawal-Medium, Tajawal" font-weight="500"><tspan x="0" y="0">Primitives</tspan></text>
+      </g>
+      <g id="Section-2" data-name="Section" transform="translate(-701 -4577)">
+        <g id="Space" transform="translate(1491 32)">
+          <rect id="Article" width="279" height="576" rx="24" transform="translate(0 57)" fill="#fff" stroke="#044468" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="10 5"/>
+          <g id="Element_Block" data-name="Element Block" transform="translate(58 99)" clip-path="url(#clip-path)">
+            <g id="Element_Block-2" data-name="Element Block" transform="translate(-1406.5 4142.5)">
+              <path id="Large" d="M20.5,0h124a20.5,20.5,0,0,1,0,41H20.5a20.5,20.5,0,0,1,0-41Z" transform="translate(1409.5 -4139.5)" fill="#6b91a6" stroke="#406983" stroke-width="4"/>
+            </g>
+            <g id="Element_Block-3" data-name="Element Block" transform="translate(-1406.5 4251.5)">
+              <path id="Large-2" data-name="Large" d="M20.5,0h124a20.5,20.5,0,0,1,0,41H20.5a20.5,20.5,0,0,1,0-41Z" transform="translate(1409.5 -4139.5)" fill="#6b91a6" stroke="#406983" stroke-width="4"/>
+            </g>
+            <g id="Element_Block-4" data-name="Element Block" transform="translate(-1406.5 4360.5)">
+              <path id="Large-3" data-name="Large" d="M20.5,0h124a20.5,20.5,0,0,1,0,41H20.5a20.5,20.5,0,0,1,0-41Z" transform="translate(1409.5 -4139.5)" fill="#6b91a6" stroke="#406983" stroke-width="4"/>
+            </g>
+            <g id="Element_Block-5" data-name="Element Block" transform="translate(-1406.5 4469.5)">
+              <path id="Large-4" data-name="Large" d="M20.5,0h124a20.5,20.5,0,0,1,0,41H20.5a20.5,20.5,0,0,1,0-41Z" transform="translate(1409.5 -4139.5)" fill="#6b91a6" stroke="#406983" stroke-width="4"/>
+            </g>
+            <g id="Element_Block-6" data-name="Element Block" transform="translate(-1406.5 4578.5)">
+              <path id="Large-5" data-name="Large" d="M20.5,0h124a20.5,20.5,0,0,1,0,41H20.5a20.5,20.5,0,0,1,0-41Z" transform="translate(1409.5 -4139.5)" fill="#6b91a6" stroke="#406983" stroke-width="4"/>
+            </g>
+          </g>
+          <text id="Space-2" data-name="Space" transform="translate(0.932 26)" fill="#4a5568" font-size="32" font-family="Tajawal-Medium, Tajawal" font-weight="500"><tspan x="0" y="0">Space</tspan></text>
+          <g id="Straight_Arrow" data-name="Straight Arrow" transform="translate(286 106)">
+            <g id="Straight_Arrow-2" data-name="Straight Arrow" clip-path="url(#clip-path-2)">
+              <g id="Straight_Arrow-3" data-name="Straight Arrow" transform="translate(0 -2.5)">
+                <path id="Path" d="M0,.5H118.449" transform="translate(4 17.5)" fill="none" stroke="#6b91a6" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="4"/>
+                <g id="Oval" transform="translate(16 26) rotate(180)" fill="#044468" stroke="#6b91a6" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="4">
+                  <circle cx="8" cy="8" r="8" stroke="none"/>
+                  <circle cx="8" cy="8" r="6" fill="none"/>
+                </g>
+                <g id="Flow_Arrow" data-name="Flow Arrow" transform="translate(-15 -2.5)">
+                  <g id="Rectangle_147614" data-name="Rectangle 147614" transform="translate(93 7)" fill="#044468" stroke="#6b91a6" stroke-width="2">
+                    <rect width="50" height="28" rx="14" stroke="none"/>
+                    <rect x="1" y="1" width="48" height="26" rx="13" fill="none"/>
+                  </g>
+                  <text id="Label" transform="translate(118 26)" fill="#fff" font-size="14" font-family="Tajawal-Medium, Tajawal" font-weight="500"><tspan x="-12.943" y="0">12px</tspan></text>
+                </g>
+              </g>
+              <g id="Straight_Arrow-4" data-name="Straight Arrow" transform="translate(0 108.5)">
+                <path id="Path-2" data-name="Path" d="M0,.5H118.449" transform="translate(4 17.5)" fill="none" stroke="#6b91a6" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="4"/>
+                <g id="Oval-2" data-name="Oval" transform="translate(16 26) rotate(180)" fill="#044468" stroke="#6b91a6" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="4">
+                  <circle cx="8" cy="8" r="8" stroke="none"/>
+                  <circle cx="8" cy="8" r="6" fill="none"/>
+                </g>
+                <g id="Flow_Arrow-2" data-name="Flow Arrow" transform="translate(-15 -2.5)">
+                  <g id="Rectangle_147614-2" data-name="Rectangle 147614" transform="translate(93 7)" fill="#044468" stroke="#6b91a6" stroke-width="2">
+                    <rect width="50" height="28" rx="14" stroke="none"/>
+                    <rect x="1" y="1" width="48" height="26" rx="13" fill="none"/>
+                  </g>
+                  <text id="Label-2" data-name="Label" transform="translate(118 26)" fill="#fff" font-size="14" font-family="Tajawal-Medium, Tajawal" font-weight="500"><tspan x="-13.16" y="0">16px</tspan></text>
+                </g>
+              </g>
+              <g id="Straight_Arrow-5" data-name="Straight Arrow" transform="translate(0 219.5)">
+                <path id="Path-3" data-name="Path" d="M0,.5H118.449" transform="translate(4 17.5)" fill="none" stroke="#6b91a6" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="4"/>
+                <g id="Oval-3" data-name="Oval" transform="translate(16 26) rotate(180)" fill="#044468" stroke="#6b91a6" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="4">
+                  <circle cx="8" cy="8" r="8" stroke="none"/>
+                  <circle cx="8" cy="8" r="6" fill="none"/>
+                </g>
+                <g id="Flow_Arrow-3" data-name="Flow Arrow" transform="translate(-15 -2.5)">
+                  <g id="Rectangle_147614-3" data-name="Rectangle 147614" transform="translate(92 7)" fill="#044468" stroke="#6b91a6" stroke-width="2">
+                    <rect width="52" height="28" rx="14" stroke="none"/>
+                    <rect x="1" y="1" width="50" height="26" rx="13" fill="none"/>
+                  </g>
+                  <text id="Label-3" data-name="Label" transform="translate(118 26)" fill="#fff" font-size="14" font-family="Tajawal-Medium, Tajawal" font-weight="500"><tspan x="-14.203" y="0">24px</tspan></text>
+                </g>
+              </g>
+              <g id="Straight_Arrow-6" data-name="Straight Arrow" transform="translate(0 330.5)">
+                <path id="Path-4" data-name="Path" d="M0,.5H118.449" transform="translate(4 17.5)" fill="none" stroke="#6b91a6" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="4"/>
+                <g id="Oval-4" data-name="Oval" transform="translate(16 26) rotate(180)" fill="#044468" stroke="#6b91a6" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="4">
+                  <circle cx="8" cy="8" r="8" stroke="none"/>
+                  <circle cx="8" cy="8" r="6" fill="none"/>
+                </g>
+                <g id="Flow_Arrow-4" data-name="Flow Arrow" transform="translate(-15 -2.5)">
+                  <g id="Rectangle_147614-4" data-name="Rectangle 147614" transform="translate(92 7)" fill="#044468" stroke="#6b91a6" stroke-width="2">
+                    <rect width="52" height="28" rx="14" stroke="none"/>
+                    <rect x="1" y="1" width="50" height="26" rx="13" fill="none"/>
+                  </g>
+                  <text id="Label-4" data-name="Label" transform="translate(118 26)" fill="#fff" font-size="14" font-family="Tajawal-Medium, Tajawal" font-weight="500"><tspan x="-13.79" y="0">32px</tspan></text>
+                </g>
+              </g>
+              <g id="Straight_Arrow-7" data-name="Straight Arrow" transform="translate(0 441.5)">
+                <path id="Path-5" data-name="Path" d="M0,.5H118.449" transform="translate(4 17.5)" fill="none" stroke="#6b91a6" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="4"/>
+                <g id="Oval-5" data-name="Oval" transform="translate(16 26) rotate(180)" fill="#044468" stroke="#6b91a6" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="4">
+                  <circle cx="8" cy="8" r="8" stroke="none"/>
+                  <circle cx="8" cy="8" r="6" fill="none"/>
+                </g>
+                <g id="Flow_Arrow-5" data-name="Flow Arrow" transform="translate(-15 -2.5)">
+                  <g id="Rectangle_147614-5" data-name="Rectangle 147614" transform="translate(91 7)" fill="#044468" stroke="#6b91a6" stroke-width="2">
+                    <rect width="54" height="28" rx="14" stroke="none"/>
+                    <rect x="1" y="1" width="52" height="26" rx="13" fill="none"/>
+                  </g>
+                  <text id="Label-5" data-name="Label" transform="translate(118 26)" fill="#fff" font-size="14" font-family="Tajawal-Medium, Tajawal" font-weight="500"><tspan x="-14.798" y="0">40px</tspan></text>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+        <g id="Shape" transform="translate(770 835)">
+          <rect id="Article-2" data-name="Article" width="647.538" height="255" rx="24" transform="translate(-2 60)" fill="#fff" stroke="#044468" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="10 5"/>
+          <text id="Shape-2" data-name="Shape" transform="translate(1.355 26)" fill="#4a5568" font-size="32" font-family="Tajawal-Medium, Tajawal" font-weight="500"><tspan x="0" y="0">Shape</tspan></text>
+          <g id="Circle" transform="translate(457 124)">
+            <g id="Oval-6" data-name="Oval" fill="#7dd8ff" stroke="#0093ed" stroke-miterlimit="10" stroke-width="2">
+              <ellipse cx="63" cy="63.5" rx="63" ry="63.5" stroke="none"/>
+              <ellipse cx="63" cy="63.5" rx="62" ry="62.5" fill="none"/>
+            </g>
+          </g>
+          <g id="Article-3" data-name="Article" transform="translate(261.269 123)">
+            <g id="Square-3" data-name="Square" transform="translate(1.731)">
+              <g transform="matrix(1, 0, 0, 1, -1563, -1050.6)" filter="url(#Square)">
+                <rect id="Square-4" data-name="Square" width="125" height="127" rx="16" transform="translate(1563 1050.6)" fill="#406983"/>
+              </g>
+            </g>
+          </g>
+          <g id="Square-5" data-name="Square" transform="translate(63 123)">
+            <g transform="matrix(1, 0, 0, 1, -1363, -1050.6)" filter="url(#Square-2)">
+              <rect id="Square-6" data-name="Square" width="125" height="127" rx="10" transform="translate(1363 1050.6)" fill="#7dd8ff"/>
+            </g>
+          </g>
+        </g>
+        <g id="Logo" transform="translate(0 843)">
+          <rect id="Article-4" data-name="Article" width="720" height="251" rx="24" transform="translate(0 55)" fill="#fff" stroke="#044468" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="10 5"/>
+          <g id="Mauri" transform="translate(50.432 105)">
+            <path id="Path_12" data-name="Path 12" d="M55.6,53.876v55.768h55.032V53.876Zm50.048,50.717H60.581V58.927h45.064Zm51.891-22.556v-.554c0-.83-2.117-4.705-8.535-10.863a22.055,22.055,0,0,0-14.611-6.435c-1.57,0-1.844.83-1.844,1.315v5.189a3.483,3.483,0,1,1-6.964,0V38.723H93.969a3.529,3.529,0,0,1,0-7.058h5.189c.478,0,1.3-.277,1.3-1.868a23.1,23.1,0,0,0-6.35-14.807c-6.077-6.435-9.9-8.649-10.72-8.649H82.84c-.819,0-4.643,2.145-10.72,8.649A22.686,22.686,0,0,0,65.77,29.8c0,1.245.478,1.591.683,1.661a1.129,1.129,0,0,0,.615.208h5.189a3.529,3.529,0,0,1,0,7.058H40.644V70.758a3.482,3.482,0,1,1-6.964,0V65.5c0-.484-.273-1.315-1.844-1.315A22.455,22.455,0,0,0,17.225,70.62C10.875,76.778,8.69,80.653,8.69,81.483v.554c0,.83,2.117,4.7,8.535,10.863a22.055,22.055,0,0,0,14.612,6.435c1.57,0,1.844-.83,1.844-1.315V92.83a3.482,3.482,0,1,1,6.964,0v32.036H72.257a3.529,3.529,0,0,1,0,7.058H67.068c-.478,0-1.3.277-1.3,1.868A23.1,23.1,0,0,0,72.12,148.6c6.077,6.435,9.9,8.649,10.72,8.649h.546c.819,0,4.643-2.145,10.72-8.649a22.686,22.686,0,0,0,6.35-14.807c0-1.591-.819-1.868-1.3-1.868H94.038a3.529,3.529,0,0,1,0-7.058H125.65V92.83a3.482,3.482,0,1,1,6.964,0v5.259c0,.484.273,1.315,1.844,1.315a22.455,22.455,0,0,0,14.611-6.435c6.282-6.227,8.466-10.1,8.466-10.932ZM75.056,19.9a10.544,10.544,0,0,1,8.057-5.466h.137a10.647,10.647,0,0,1,7.989,5.535l.2.346s-2.936-2.145-8.262,2.214l-.068.069-.068-.069c-5.326-4.428-8.262-2.214-8.262-2.214ZM22.072,89.994a10.684,10.684,0,0,1-5.394-8.165v-.138a10.781,10.781,0,0,1,5.462-8.1l.341-.208s-2.117,2.975,2.185,8.372l.068.069-.068.069c-4.37,5.4-2.185,8.372-2.185,8.372Zm69.166,53.623a10.544,10.544,0,0,1-8.057,5.466h-.137a10.647,10.647,0,0,1-7.989-5.535l-.2-.346s2.936,2.145,8.262-2.214l.068-.069.068.069c5.326,4.428,8.262,2.214,8.262,2.214Zm48.068-50.3-1.434.415-.341-1.453a8.59,8.59,0,0,0-17,1.868v25.67H95.2a8.6,8.6,0,0,0-8.535,8.649,8.7,8.7,0,0,0,6.76,8.511l1.434.346-.41,1.453a4.42,4.42,0,0,1-4.3,3.114h-.137a10.019,10.019,0,0,1-6.964-3.6,10.019,10.019,0,0,1-6.964,3.6h-.137a4.343,4.343,0,0,1-4.3-3.114l-.41-1.453,1.434-.346a8.716,8.716,0,0,0,6.76-8.511,8.61,8.61,0,0,0-8.6-8.649H45.628V94.145A8.553,8.553,0,0,0,28.7,92.277l-.341,1.453-1.434-.415a4.369,4.369,0,0,1-3.073-4.5A10.246,10.246,0,0,1,27.4,81.76a10.246,10.246,0,0,1-3.55-7.058,4.369,4.369,0,0,1,3.073-4.5l1.434-.415.341,1.453a8.59,8.59,0,0,0,17-1.868v-25.6H71.028a8.654,8.654,0,0,0,8.6-8.649,8.775,8.775,0,0,0-6.76-8.511l-1.434-.346.41-1.453a4.42,4.42,0,0,1,4.3-3.114h.137a10.019,10.019,0,0,1,6.964,3.6,10.019,10.019,0,0,1,6.964-3.6h.137a4.343,4.343,0,0,1,4.3,3.114l.41,1.453-1.434.346a8.716,8.716,0,0,0-6.76,8.511,8.61,8.61,0,0,0,8.6,8.649H120.8v25.67a8.553,8.553,0,0,0,16.933,1.868l.341-1.453,1.434.415a4.369,4.369,0,0,1,3.073,4.5,10.246,10.246,0,0,1-3.55,7.057,10.246,10.246,0,0,1,3.55,7.058,4.7,4.7,0,0,1-3.277,4.428ZM149.548,81.9a10.781,10.781,0,0,1-5.462,8.1l-.341.208s2.117-2.975-2.185-8.372l-.068-.069.068-.069c4.37-5.4,2.185-8.372,2.185-8.372l.41.277a10.684,10.684,0,0,1,5.394,8.165Z" transform="translate(-8.69 -6.341)" fill="#4a5568"/>
+            <path id="Path_13" data-name="Path 13" d="M145.694,120.014a19.65,19.65,0,0,1,.568,4.383,18.342,18.342,0,1,1-36.684,0,19.087,19.087,0,0,1,.487-4.382A19.887,19.887,0,1,0,147.8,128.78,20.818,20.818,0,0,0,145.694,120.014Z" transform="translate(-53.432 -55.274)" fill="#4a5568"/>
+            <path id="Path_14" data-name="Path 14" d="M127.22,120.885l-2.6,8.2,6.98-5.032,7.061,5.032-2.678-8.2,6.574-4.788h-8.116l-2.922-8.765-2.759,8.765h-8.278Z" transform="translate(-57.231 -49.269)" fill="#4a5568"/>
+          </g>
+          <g id="Logo-2" data-name="Logo" transform="translate(236.292 105)">
+            <g id="Mauribac" transform="translate(234)">
+              <path id="Path_15" data-name="Path 15" d="M1576.947,650.48a4.166,4.166,0,0,0-2.28,1.032,2.7,2.7,0,0,0-.848,1.621l.124,19.627c-2.111,1.061-3.308,2.949-3.071,4.859.3,2.382,2.685,3.634,2.986,3.787-.692,2.1-1.35,3.787-1.8,4.877-.619,1.507-2.82,6.769-3.3,11.27-.058.53-.141,1.555.585,1.973.864.5,2.361-.169,3.28-.47a10.689,10.689,0,0,1,4.354-.4c2.613.232,4.8-1.59,4.43-3.678a.1.1,0,0,0-.009-.051,74.38,74.38,0,0,0-3.744-13.429c.194-.091,2.958-1.422,3.115-4.029a4.926,4.926,0,0,0-3.351-4.612Q1577.182,661.668,1576.947,650.48Z" transform="translate(-1396.844 -619.137)" fill="#044468"/>
+              <path id="Path_16" data-name="Path 16" d="M560.768,730.5l48.13,11.719a5.575,5.575,0,0,0,2.688-.011l46-11.632a5.579,5.579,0,0,1,6.942,5.408v19.141a5.579,5.579,0,0,1-2.346,4.543,91.915,91.915,0,0,1-49.452,16.993c-27.925,1.083-48.246-11.133-56.508-16.987a5.585,5.585,0,0,1-2.358-4.556v-19.2a5.577,5.577,0,0,1,6.9-5.42Z" transform="translate(-510.088 -688.92)" fill="#044468"/>
+              <path id="Path_17" data-name="Path 17" d="M208.664,421.749l98.085-19.554a2.074,2.074,0,0,1,.809,0l97.958,19.554a2.071,2.071,0,0,1,.1,4.039L307.661,450.56a2.057,2.057,0,0,1-1.01,0l-98.089-24.775A2.07,2.07,0,0,1,208.664,421.749Z" transform="translate(-206.999 -402.155)" fill="#044468"/>
+              <path id="Path_18" data-name="Path 18" d="M311.02,1170.485l-60.192,5.805a11.765,11.765,0,0,1-4.106.24,12.383,12.383,0,0,1-6.027-2.538c-5.911-4.384-6.368-13.281-6.452-14.932-.132-2.567-.456-8.872,3.749-13.809,1.113-1.306,3.257-3.823,6.728-4.138,4.5-.409,7.59,3.208,7.939,3.63,2.377,2.873,2.29,6.138,2.238,8.057-.053,2.012-.126,4.715-2.17,6.465a5.536,5.536,0,0,1-4.1,1.34c-3.668-.506-5.021-5.506-5.164-6.058a9.7,9.7,0,0,1-.236-3.446l-2.716-.429c-.322,1.156-.766,2.9-1.15,5.068-.771,4.358-1.157,6.537-.471,9.023a11.225,11.225,0,0,0,4.358,6.289,11.756,11.756,0,0,0,7.781,1.43c6.942-.772,28.643-2.823,58.138-5.849a5.121,5.121,0,0,0,3.735-1.339,5.216,5.216,0,0,0,1.156-3.673,61.461,61.461,0,0,0-1.388-13.49c-1.641-6.9-2.615-8.331-4.054-9.214a6.84,6.84,0,0,0-3.325-.943c-2.069-.066-5.6-.192-9.984-.419-14.7-.771-21.284-1.775-35.508-2.592-3.058-.176-7.846-.422-13.793-.595a11.544,11.544,0,0,0-4.254.094c-4.5.96-7.061,4.444-8.187,5.979-2.486,3.391-3.117,6.64-3.837,10.581a36.625,36.625,0,0,0,.075,15.7c.969,4.119,2.064,8.769,6.144,11.928a17.077,17.077,0,0,0,6.1,2.831c3.092.884,5.827.945,10.418.612,5.244-.379,8.359-.942,12.022-1.451,7.777-1.078,13.921-1.35,16.864-1.474,2.242-.093,1.956-.036,16.282-.3l5.281-.1a7.737,7.737,0,0,0,6.515-2.524A7.519,7.519,0,0,0,311.02,1170.485Z" transform="translate(-226.141 -1041.815)" fill="#044468"/>
+              <path id="Path_19" data-name="Path 19" d="M925.464,1164l18.607.111a4.152,4.152,0,0,1,3.779,2.5,44.86,44.86,0,0,1,.779,33.966,4.135,4.135,0,0,1-3.849,2.65l-18.577.087a4.141,4.141,0,0,1-4.025-5.213,50.7,50.7,0,0,0-.685-28.7,4.143,4.143,0,0,1,3.972-5.4Z" transform="translate(-831.139 -1067.841)" fill="#044468"/>
+              <path id="Path_20" data-name="Path 20" d="M948.02,1499.893l18.731-.5a1.782,1.782,0,0,1,.275.016,5.117,5.117,0,0,1,2.335.924c.582.422,1.415,1.225,2.36,3.875a23.75,23.75,0,0,1,.935,3.408,1.573,1.573,0,0,1-2.33,1.6l-9.1-4.8a1.628,1.628,0,0,0-2.176.619L955.767,1511a1.62,1.62,0,0,1-2.889-.167,21.481,21.481,0,0,0-3.328-5.724A20.331,20.331,0,0,0,947,1502.5,1.487,1.487,0,0,1,948.02,1499.893Z" transform="translate(-853.14 -1360.904)" fill="#044468"/>
+              <path id="Path_21" data-name="Path 21" d="M1242.759,1435.871a17.849,17.849,0,0,1-5.553,3.255,20.4,20.4,0,0,1-10.561.538c-2.58-.392-7.818-.852-18.3-1.767-3.611-.317-4.535-.272-10.677-.445-1.1-.033-4.091-.12-10.061-.338-2.723-.1-6.633-.252-11.423-.471a3.6,3.6,0,0,1-3.387-2.817,3.7,3.7,0,0,1,3.823-3.9c4.23.261,9.687.622,16.045,1.1,13.543,1.009,23.641,1.991,26.025,2.224C1225.464,1433.9,1233.576,1434.759,1242.759,1435.871Z" transform="translate(-1050.87 -1300.207)" fill="#044468"/>
+              <path id="Path_22" data-name="Path 22" d="M1164.35,1132.652c30.34-3.112,52.955-4.587,60.674-4.29a15.165,15.165,0,0,1,8.129,2.407c3.585,2.438,4.895,5.917,6.008,8.872,1.881,5,1.833,9.271,1.73,14.27a63.848,63.848,0,0,1-1.219,11.156,5.064,5.064,0,0,1-2.431,2.944,5.855,5.855,0,0,1-3.569.091c-2.121-.333-4.292-.263-6.408-.631-.82-.142-5.669-.56-15.364-1.388-7.485-.644-20.84-1.71-37.96-2.925a6.636,6.636,0,0,1-3.386-1.448c-3.3-2.825-1.942-8.338-2.3-14.553A38.1,38.1,0,0,0,1164.35,1132.652Z" transform="translate(-1043.515 -1036.669)" fill="#044468"/>
+            </g>
+            <text id="موريباك" transform="translate(0 95.453)" fill="#044468" font-size="70" font-family="Tajawal-Medium, Tajawal" font-weight="500"><tspan x="0" y="0">موريباك</tspan></text>
+          </g>
+          <text id="Logos" transform="translate(0 21)" fill="#4a5568" font-size="32" font-family="Tajawal-Medium, Tajawal" font-weight="500"><tspan x="0" y="0">Logos</tspan></text>
+        </g>
+        <g id="Small" transform="translate(770 307)">
+          <g id="Small_100" data-name="Small/100" transform="translate(351 243)">
+            <text id="_100" data-name="100" transform="translate(0 14)" fill="#044468" font-size="14" font-family="Tajawal-Regular, Tajawal"><tspan x="0" y="0">Links</tspan></text>
+          </g>
+          <g id="Small_200" data-name="Small/200" transform="translate(198 243)">
+            <text id="_200" data-name="200" transform="translate(0 14)" fill="#044468" font-size="14" font-family="Tajawal-Medium, Tajawal" font-weight="500"><tspan x="0" y="0">Links</tspan></text>
+          </g>
+          <g id="Small_Primary" data-name="Small/Primary" transform="translate(45 242)">
+            <text id="Primary" transform="translate(0 15)" fill="#044468" font-size="14" font-family="Tajawal-Bold, Tajawal" font-weight="700"><tspan x="0" y="0">Links</tspan></text>
+          </g>
+        </g>
+        <g id="Text_Blocks" data-name="Text Blocks" transform="translate(770 307)">
+          <g id="Flow_Arrow-6" data-name="Flow Arrow" transform="translate(54 473.685)" clip-path="url(#clip-path-3)">
+            <g id="Flow_Arrow-7" data-name="Flow Arrow" transform="translate(-79 -5)">
+              <g id="Flow" transform="translate(82 7)" fill="#044468" stroke="#6b91a6" stroke-width="2">
+                <rect width="72" height="28" rx="14" stroke="none"/>
+                <rect x="1" y="1" width="70" height="26" rx="13" fill="none"/>
+              </g>
+              <text id="Label-6" data-name="Label" transform="translate(118 26)" fill="#fff" font-size="14" font-family="Tajawal-Medium, Tajawal" font-weight="500"><tspan x="-23.912" y="0">Primary</tspan></text>
+            </g>
+            <g id="Flow_Arrow-8" data-name="Flow Arrow" transform="translate(78 -5)">
+              <g id="Flow-2" data-name="Flow" transform="translate(95 7)" fill="#044468" stroke="#6b91a6" stroke-width="2">
+                <rect width="46" height="28" rx="14" stroke="none"/>
+                <rect x="1" y="1" width="44" height="26" rx="13" fill="none"/>
+              </g>
+              <text id="Label-7" data-name="Label" transform="translate(118 26)" fill="#fff" font-size="14" font-family="Tajawal-Medium, Tajawal" font-weight="500"><tspan x="-10.535" y="0">100</tspan></text>
+            </g>
+            <g id="Flow_Arrow-9" data-name="Flow Arrow" transform="translate(235 -5)">
+              <g id="Flow-3" data-name="Flow" transform="translate(95 7)" fill="#044468" stroke="#6b91a6" stroke-width="2">
+                <rect width="46" height="28" rx="14" stroke="none"/>
+                <rect x="1" y="1" width="44" height="26" rx="13" fill="none"/>
+              </g>
+              <text id="Label-8" data-name="Label" transform="translate(118 26)" fill="#fff" font-size="14" font-family="Tajawal-Medium, Tajawal" font-weight="500"><tspan x="-11.27" y="0">200</tspan></text>
+            </g>
+          </g>
+          <rect id="Article-5" data-name="Article" width="500" height="406.685" rx="24" transform="translate(0 55)" fill="#fff" stroke="#044468" stroke-width="1" stroke-dasharray="10 5"/>
+          <g id="X-Small" transform="translate(52 399.866)">
+            <text id="_100-2" data-name="100" transform="translate(392 13.231)" fill="#044468" font-size="12" font-family="Tajawal-Regular, Tajawal"><tspan x="0" y="0">Tiny</tspan></text>
+            <text id="_200-2" data-name="200" transform="translate(200.914 13)" fill="#044468" font-size="12" font-family="Tajawal-Medium, Tajawal" font-weight="500"><tspan x="0" y="0">Tiny</tspan></text>
+            <text id="Primary-2" data-name="Primary" transform="translate(0 13.231)" fill="#044468" font-size="12" font-family="Tajawal-Bold, Tajawal" font-weight="700"><tspan x="0" y="0">Tiny</tspan></text>
+          </g>
+          <g id="Small-2" data-name="Small" transform="translate(52 345.867)">
+            <text id="_100-3" data-name="100" transform="translate(388 15.231)" fill="#044468" font-size="14" font-family="Tajawal-Regular, Tajawal"><tspan x="0" y="0">Text</tspan></text>
+            <text id="_200-3" data-name="200" transform="translate(198.858 15)" fill="#044468" font-size="14" font-family="Tajawal-Medium, Tajawal" font-weight="500"><tspan x="0" y="0">Text</tspan></text>
+            <text id="Primary-3" data-name="Primary" transform="translate(0 15.231)" fill="#044468" font-size="14" font-family="Tajawal-Bold, Tajawal" font-weight="700"><tspan x="0" y="0">Text</tspan></text>
+          </g>
+          <g id="X-Medium" transform="translate(50 287.615)">
+            <text id="_100-4" data-name="100" transform="translate(379 19.482)" fill="#406983" font-size="18" font-family="Tajawal-Regular, Tajawal"><tspan x="0" y="0">Links</tspan></text>
+            <text id="_200-4" data-name="200" transform="translate(194.266 19)" fill="#406983" font-size="18" font-family="Tajawal-Medium, Tajawal" font-weight="500"><tspan x="0" y="0">Links</tspan></text>
+            <text id="Primary-4" data-name="Primary" transform="translate(0 19.482)" fill="#406983" font-size="18" font-family="Tajawal-Bold, Tajawal" font-weight="700"><tspan x="0" y="0">Links</tspan></text>
+          </g>
+          <g id="Medium" transform="translate(50 226.469)">
+            <text id="_100-5" data-name="100" transform="translate(352 20.628)" fill="#406983" font-size="20" font-family="Tajawal-Bold, Tajawal" font-weight="700"><tspan x="0" y="0">Section</tspan></text>
+            <text id="_200-5" data-name="200" transform="translate(177.551 21)" fill="#406983" font-size="20" font-family="Tajawal-Regular, Tajawal"><tspan x="0" y="0">Section</tspan></text>
+            <text id="Primary-5" data-name="Primary" transform="translate(0 20.628)" fill="#406983" font-size="20" font-family="Tajawal-Medium, Tajawal" font-weight="500"><tspan x="0" y="0">Section</tspan></text>
+          </g>
+          <g id="X-Large" transform="translate(50 157.623)">
+            <text id="_100-6" data-name="100" transform="translate(359 26.474)" fill="#044468" font-size="24" font-family="Tajawal-Bold, Tajawal" font-weight="700"><tspan x="0" y="0">Titles</tspan></text>
+            <text id="_200-6" data-name="200" transform="translate(180.414 26)" fill="#044468" font-size="24" font-family="Tajawal-Regular, Tajawal"><tspan x="0" y="0">Titles</tspan></text>
+            <text id="Primary-6" data-name="Primary" transform="translate(0 26.474)" fill="#044468" font-size="24" font-family="Tajawal-Medium, Tajawal" font-weight="500"><tspan x="0" y="0">Titles</tspan></text>
+          </g>
+          <g id="Large-6" data-name="Large" transform="translate(50 78.097)">
+            <text id="_100-7" data-name="100" transform="translate(306 34)" fill="#4a5568" font-size="32" font-family="Tajawal-Regular, Tajawal"><tspan x="0" y="0">Heading</tspan></text>
+            <text id="_200-7" data-name="200" transform="translate(153 34)" fill="#4a5568" font-size="32" font-family="Tajawal-Bold, Tajawal" font-weight="700"><tspan x="0" y="0">Heading</tspan></text>
+            <text id="Primary-7" data-name="Primary" transform="translate(0 34)" fill="#4a5568" font-size="32" font-family="Tajawal-Medium, Tajawal" font-weight="500"><tspan x="0" y="0">Heading</tspan></text>
+          </g>
+          <text id="Text_Blocks-2" data-name="Text Blocks" transform="translate(0.932 22)" fill="#4a5568" font-size="32" font-family="Tajawal-Medium, Tajawal" font-weight="500"><tspan x="0" y="0">Text Blocks</tspan></text>
+          <g id="Straight_Arrow-8" data-name="Straight Arrow" transform="translate(510 94)">
+            <g id="Straight_Arrow-9" data-name="Straight Arrow" clip-path="url(#clip-path-4)">
+              <g id="Straight_Arrow-10" data-name="Straight Arrow" transform="translate(0 -2.5)">
+                <path id="Path-6" data-name="Path" d="M0,.5H118.449" transform="translate(4 17.5)" fill="none" stroke="#6b91a6" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="4"/>
+                <g id="Oval-7" data-name="Oval" transform="translate(16 26) rotate(180)" fill="#044468" stroke="#6b91a6" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="4">
+                  <circle cx="8" cy="8" r="8" stroke="none"/>
+                  <circle cx="8" cy="8" r="6" fill="none"/>
+                </g>
+                <g id="Flow_Arrow-10" data-name="Flow Arrow" transform="translate(-15 -2.5)">
+                  <g id="Rectangle_147614-6" data-name="Rectangle 147614" transform="translate(89 7)" fill="#044468" stroke="#6b91a6" stroke-width="2">
+                    <rect width="58" height="28" rx="14" stroke="none"/>
+                    <rect x="1" y="1" width="56" height="26" rx="13" fill="none"/>
+                  </g>
+                  <text id="Label-9" data-name="Label" transform="translate(118 26)" fill="#fff" font-size="14" font-family="Tajawal-Medium, Tajawal" font-weight="500"><tspan x="-16.912" y="0">Large</tspan></text>
+                </g>
+              </g>
+              <g id="Straight_Arrow-11" data-name="Straight Arrow" transform="translate(0 58.5)">
+                <path id="Path-7" data-name="Path" d="M0,.5H118.449" transform="translate(4 17.5)" fill="none" stroke="#6b91a6" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="4"/>
+                <g id="Oval-8" data-name="Oval" transform="translate(16 26) rotate(180)" fill="#044468" stroke="#6b91a6" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="4">
+                  <circle cx="8" cy="8" r="8" stroke="none"/>
+                  <circle cx="8" cy="8" r="6" fill="none"/>
+                </g>
+                <g id="Flow_Arrow-11" data-name="Flow Arrow" transform="translate(-15 -2.5)">
+                  <g id="Rectangle_147614-7" data-name="Rectangle 147614" transform="translate(83 7)" fill="#044468" stroke="#6b91a6" stroke-width="2">
+                    <rect width="70" height="28" rx="14" stroke="none"/>
+                    <rect x="1" y="1" width="68" height="26" rx="13" fill="none"/>
+                  </g>
+                  <text id="Label-10" data-name="Label" transform="translate(118 26)" fill="#fff" font-size="14" font-family="Tajawal-Medium, Tajawal" font-weight="500"><tspan x="-23.037" y="0">X-Large</tspan></text>
+                </g>
+              </g>
+              <g id="Straight_Arrow-12" data-name="Straight Arrow" transform="translate(0 119.5)">
+                <path id="Path-8" data-name="Path" d="M0,.5H118.449" transform="translate(4 17.5)" fill="none" stroke="#6b91a6" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="4"/>
+                <g id="Oval-9" data-name="Oval" transform="translate(16 26) rotate(180)" fill="#044468" stroke="#6b91a6" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="4">
+                  <circle cx="8" cy="8" r="8" stroke="none"/>
+                  <circle cx="8" cy="8" r="6" fill="none"/>
+                </g>
+                <g id="Flow_Arrow-12" data-name="Flow Arrow" transform="translate(-15 -2.5)">
+                  <g id="Rectangle_147614-8" data-name="Rectangle 147614" transform="translate(82 7)" fill="#044468" stroke="#6b91a6" stroke-width="2">
+                    <rect width="72" height="28" rx="14" stroke="none"/>
+                    <rect x="1" y="1" width="70" height="26" rx="13" fill="none"/>
+                  </g>
+                  <text id="Label-11" data-name="Label" transform="translate(118 26)" fill="#fff" font-size="14" font-family="Tajawal-Medium, Tajawal" font-weight="500"><tspan x="-24.458" y="0">Medium</tspan></text>
+                </g>
+              </g>
+              <g id="Straight_Arrow-13" data-name="Straight Arrow" transform="translate(0 180.5)">
+                <path id="Path-9" data-name="Path" d="M0,.5H118.449" transform="translate(4 17.5)" fill="none" stroke="#6b91a6" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="4"/>
+                <g id="Oval-10" data-name="Oval" transform="translate(16 26) rotate(180)" fill="#044468" stroke="#6b91a6" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="4">
+                  <circle cx="8" cy="8" r="8" stroke="none"/>
+                  <circle cx="8" cy="8" r="6" fill="none"/>
+                </g>
+                <g id="Flow_Arrow-13" data-name="Flow Arrow" transform="translate(-15 -2.5)">
+                  <g id="Rectangle_147614-9" data-name="Rectangle 147614" transform="translate(75 7)" fill="#044468" stroke="#6b91a6" stroke-width="2">
+                    <rect width="86" height="28" rx="14" stroke="none"/>
+                    <rect x="1" y="1" width="84" height="26" rx="13" fill="none"/>
+                  </g>
+                  <text id="Label-12" data-name="Label" transform="translate(118 26)" fill="#fff" font-size="14" font-family="Tajawal-Medium, Tajawal" font-weight="500"><tspan x="-30.583" y="0">X-Medium</tspan></text>
+                </g>
+              </g>
+              <g id="Straight_Arrow-14" data-name="Straight Arrow" transform="translate(0 241.5)">
+                <path id="Path-10" data-name="Path" d="M0,.5H118.449" transform="translate(4 17.5)" fill="none" stroke="#6b91a6" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="4"/>
+                <g id="Oval-11" data-name="Oval" transform="translate(16 26) rotate(180)" fill="#044468" stroke="#6b91a6" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="4">
+                  <circle cx="8" cy="8" r="8" stroke="none"/>
+                  <circle cx="8" cy="8" r="6" fill="none"/>
+                </g>
+                <g id="Flow_Arrow-14" data-name="Flow Arrow" transform="translate(-15 -2.5)">
+                  <g id="Rectangle_147614-10" data-name="Rectangle 147614" transform="translate(89 7)" fill="#044468" stroke="#6b91a6" stroke-width="2">
+                    <rect width="58" height="28" rx="14" stroke="none"/>
+                    <rect x="1" y="1" width="56" height="26" rx="13" fill="none"/>
+                  </g>
+                  <text id="Label-13" data-name="Label" transform="translate(118 26)" fill="#fff" font-size="14" font-family="Tajawal-Medium, Tajawal" font-weight="500"><tspan x="-16.527" y="0">Small</tspan></text>
+                </g>
+              </g>
+              <g id="Straight_Arrow-15" data-name="Straight Arrow" transform="translate(0 302.5)">
+                <path id="Path-11" data-name="Path" d="M0,.5H118.449" transform="translate(4 17.5)" fill="none" stroke="#6b91a6" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="4"/>
+                <g id="Oval-12" data-name="Oval" transform="translate(16 26) rotate(180)" fill="#044468" stroke="#6b91a6" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="4">
+                  <circle cx="8" cy="8" r="8" stroke="none"/>
+                  <circle cx="8" cy="8" r="6" fill="none"/>
+                </g>
+                <g id="Flow_Arrow-15" data-name="Flow Arrow" transform="translate(-15 -2.5)">
+                  <g id="Rectangle_147614-11" data-name="Rectangle 147614" transform="translate(83 7)" fill="#044468" stroke="#6b91a6" stroke-width="2">
+                    <rect width="70" height="28" rx="14" stroke="none"/>
+                    <rect x="1" y="1" width="68" height="26" rx="13" fill="none"/>
+                  </g>
+                  <text id="Label-14" data-name="Label" transform="translate(118 26)" fill="#fff" font-size="14" font-family="Tajawal-Medium, Tajawal" font-weight="500"><tspan x="-22.652" y="0">X-Small</tspan></text>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+        <g id="Typography" transform="translate(0 307)">
+          <rect id="Article-6" data-name="Article" width="720" height="393" rx="24" transform="translate(0 55)" fill="#fff" stroke="#044468" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="10 5"/>
+          <g id="Typography-2" data-name="Typography" transform="translate(50 105)">
+            <g id="Regular" transform="translate(0 248)">
+              <text id="AaBbCcDdEeGgNn_12345_Copy" data-name="AaBbCcDdEeGgNn 12345 Copy" transform="translate(200.421 33)" fill="#4a5568" font-size="32" font-family="Tajawal-Bold, Tajawal" font-weight="700"><tspan x="0" y="0">AaBbCcDdEeGgNn 1234567890</tspan></text>
+              <text id="Semi_Bold" data-name="Semi Bold" transform="translate(0 33)" fill="#4a5568" font-size="32" font-family="Tajawal-Bold, Tajawal" font-weight="700"><tspan x="0" y="0">Bold</tspan></text>
+            </g>
+            <g id="Medium-2" data-name="Medium" transform="translate(0 186)">
+              <text id="AaBbCcDdEeGgNn_12345_Copy_2" data-name="AaBbCcDdEeGgNn 12345 Copy 2" transform="translate(214.218 31)" fill="#044468" font-size="31" font-family="Tajawal-Medium, Tajawal" font-weight="500"><tspan x="0" y="0">AaBbCcDdEeGgNn 1234567890</tspan></text>
+              <text id="Medium-3" data-name="Medium" transform="translate(0 32)" fill="#044468" font-size="31" font-family="Tajawal-Medium, Tajawal" font-weight="500"><tspan x="0" y="0">Medium</tspan></text>
+            </g>
+            <g id="Bold" transform="translate(0 121)">
+              <text id="AaBbCcDdEeGgNn_12345" data-name="AaBbCcDdEeGgNn 12345" transform="translate(207.636 34)" fill="#044468" font-size="32" font-family="Tajawal-Regular, Tajawal"><tspan x="0" y="0">AaBbCcDdEeGgNn 1234567890</tspan></text>
+              <text id="Bold-2" data-name="Bold" transform="translate(0 34)" fill="#044468" font-size="32" font-family="Tajawal-Regular, Tajawal"><tspan x="0" y="0">Regular</tspan></text>
+            </g>
+            <text id="Tajawal" transform="translate(0 77)" fill="#044468" font-size="54" font-family="Tajawal-Regular, Tajawal"><tspan x="0" y="0">Tajawal</tspan></text>
+            <text id="Primary_Typeface" data-name="Primary Typeface" transform="translate(0 21)" fill="#044468" font-size="21" font-family="Tajawal-Regular, Tajawal"><tspan x="0" y="0">Primary Typeface</tspan></text>
+          </g>
+          <text id="Typography-3" data-name="Typography" transform="translate(0.932 22)" fill="#4a5568" font-size="32" font-family="Tajawal-Medium, Tajawal" font-weight="500"><tspan x="0" y="0">Typography</tspan></text>
+        </g>
+        <g id="Color_Shades" data-name="Color Shades">
+          <rect id="Article-7" data-name="Article" width="1320" height="200" rx="24" transform="translate(0 57)" fill="#fff"/>
+          <g id="Shades" transform="translate(50.432 107)">
+            <path id="Color" d="M12,0H88a12,12,0,0,1,12,12V88a12,12,0,0,1-12,12H12A12,12,0,0,1,0,88V12A12,12,0,0,1,12,0Z" transform="translate(1120)" fill="#48bb78"/>
+            <path id="Color-2" data-name="Color" d="M12,0H88a12,12,0,0,1,12,12V88a12,12,0,0,1-12,12H12A12,12,0,0,1,0,88V12A12,12,0,0,1,12,0Z" transform="translate(980)" fill="#f56565"/>
+            <path id="Color-3" data-name="Color" d="M12,0H88a12,12,0,0,1,12,12V88a12,12,0,0,1-12,12H12A12,12,0,0,1,0,88V12A12,12,0,0,1,12,0Z" transform="translate(840)" fill="#03a4ff"/>
+            <path id="Color-4" data-name="Color" d="M12,0H88a12,12,0,0,1,12,12V88a12,12,0,0,1-12,12H12A12,12,0,0,1,0,88V12A12,12,0,0,1,12,0Z" transform="translate(700)" fill="#52c1ff"/>
+            <path id="Color-5" data-name="Color" d="M12,0H88a12,12,0,0,1,12,12V88a12,12,0,0,1-12,12H12A12,12,0,0,1,0,88V12A12,12,0,0,1,12,0Z" transform="translate(560)" fill="#4a5568"/>
+            <path id="Color-6" data-name="Color" d="M12,0H88a12,12,0,0,1,12,12V88a12,12,0,0,1-12,12H12A12,12,0,0,1,0,88V12A12,12,0,0,1,12,0Z" transform="translate(420)" fill="#044468"/>
+            <path id="Color-7" data-name="Color" d="M12,0H88a12,12,0,0,1,12,12V88a12,12,0,0,1-12,12H12A12,12,0,0,1,0,88V12A12,12,0,0,1,12,0Z" transform="translate(280)" fill="#406983"/>
+            <path id="Color-8" data-name="Color" d="M12,0H88a12,12,0,0,1,12,12V88a12,12,0,0,1-12,12H12A12,12,0,0,1,0,88V12A12,12,0,0,1,12,0Z" transform="translate(140)" fill="#6b91a6"/>
+            <path id="Color-9" data-name="Color" d="M12,0H88a12,12,0,0,1,12,12V88a12,12,0,0,1-12,12H12A12,12,0,0,1,0,88V12A12,12,0,0,1,12,0Z" fill="#f5f7fb"/>
+          </g>
+          <g id="Straight_Arrow-16" data-name="Straight Arrow" transform="translate(595)">
+            <path id="Path-12" data-name="Path" d="M0,0H59.225" transform="translate(64.432 15.5) rotate(90)" fill="none" stroke="#6b91a6" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="4"/>
+            <g id="Oval-13" data-name="Oval" transform="translate(72 83) rotate(180)" fill="#044468" stroke="#6b91a6" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="4">
+              <circle cx="8" cy="8" r="8" stroke="none"/>
+              <circle cx="8" cy="8" r="6" fill="none"/>
+            </g>
+            <g id="Flow_Arrow-16" data-name="Flow Arrow">
+              <g id="Rectangle_147614-12" data-name="Rectangle 147614" transform="translate(7 2)" fill="#044468" stroke="#6b91a6" stroke-width="2">
+                <rect width="114" height="28" rx="14" stroke="none"/>
+                <rect x="1" y="1" width="112" height="26" rx="13" fill="none"/>
+              </g>
+              <text id="Label-15" data-name="Label" transform="translate(64 21)" fill="#fff" font-size="14" font-family="Tajawal-Medium, Tajawal" font-weight="500"><tspan x="-45.486" y="0">Mauribac Color</tspan></text>
+            </g>
+          </g>
+          <text id="Color_Shades-2" data-name="Color Shades" transform="translate(0 24)" fill="#4a5568" font-size="32" font-family="Tajawal-Medium, Tajawal" font-weight="500"><tspan x="0" y="0">Color Shades</tspan></text>
+        </g>
+        <g id="Space-3" data-name="Space" transform="translate(1491 843)">
+          <rect id="Article-8" data-name="Article" width="279" height="255" rx="24" transform="translate(0 52)" fill="#fff" stroke="#044468" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="10 5"/>
+          <g id="Element_Block-7" data-name="Element Block" transform="translate(62.932 103.5)" clip-path="url(#clip-path-5)">
+            <g id="Element_Block-8" data-name="Element Block" transform="translate(-1406.5 4142.5)">
+              <path id="Large-7" data-name="Large" d="M20.5,0h124a20.5,20.5,0,0,1,0,41H20.5a20.5,20.5,0,0,1,0-41Z" transform="translate(1409.5 -4139.5)" fill="#6b91a6" stroke="#406983" stroke-width="4"/>
+            </g>
+            <g id="Element_Block-9" data-name="Element Block" transform="translate(-1406.5 4251.5)">
+              <path id="Large-8" data-name="Large" d="M20.5,0h124a20.5,20.5,0,0,1,0,41H20.5a20.5,20.5,0,0,1,0-41Z" transform="translate(1409.5 -4139.5)" fill="#6b91a6" stroke="#406983" stroke-width="4"/>
+            </g>
+          </g>
+          <text id="Space-4" data-name="Space" transform="translate(0.932 16)" fill="#4a5568" font-size="32" font-family="Tajawal-Medium, Tajawal" font-weight="500"><tspan x="0" y="0">Radius</tspan></text>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="253.473" height="82" viewBox="0 0 253.473 82">
+  <defs>
+    <filter id="Btn" x="0" y="0" width="253.473" height="82" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-color="#044468" flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Btn-Big" transform="translate(9 6)">
+    <g transform="matrix(1, 0, 0, 1, -9, -6)" filter="url(#Btn)">
+      <rect id="Btn-2" data-name="Btn" width="235.473" height="64" rx="20" transform="translate(9 6)" fill="#688fa4"/>
+    </g>
+    <text id="Primitives" transform="translate(117.727 38)" fill="#fff" font-size="20" font-family="Tajawal-Bold, Tajawal" font-weight="700"><tspan x="-75.33" y="0">اضافة الطالب (ة)</tspan></text>
+  </g>
+</svg>

@@ -1,0 +1,401 @@
+<svg id="Grid" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="368" height="451" viewBox="0 0 368 451">
+  <defs>
+    <clipPath id="clip-path">
+      <rect width="368" height="451" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <rect x="-147" y="12" width="368" height="93" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-3">
+      <rect width="211.961" height="17.189" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="List" clip-path="url(#clip-path)">
+    <g id="Overlay" transform="translate(147 -12)" clip-path="url(#clip-path-2)" style="isolation: isolate">
+      <g id="Schools" transform="translate(-100.369 -12.198)">
+        <rect id="Square" width="360" height="93" transform="translate(-41.5 24.198)" fill="none"/>
+        <g id="_ٍStatus" data-name="ٍStatus" transform="translate(-6 44.823)">
+          <g id="Progresss" transform="translate(-34.02 44.375)">
+            <path id="Division" d="M0,0H85a6,6,0,0,1,6,6V6a6,6,0,0,1-6,6H0a0,0,0,0,1,0,0V0A0,0,0,0,1,0,0Z" transform="translate(89.52 1)" fill="#48bb78"/>
+            <path id="Division-2" data-name="Division" d="M6,0H21a0,0,0,0,1,0,0V12a0,0,0,0,1,0,0H6A6,6,0,0,1,0,6V6A6,6,0,0,1,6,0Z" transform="translate(2.52 1)" fill="#6b91a6"/>
+            <rect id="Division-3" data-name="Division" width="66" height="12" transform="translate(23.52 1)" fill="#f56565"/>
+            <g id="Patterns" transform="translate(2.559 -1.595)" clip-path="url(#clip-path-3)">
+              <g transform="translate(-38.559 1.625)">
+                <path id="Pattern" d="M-.135,5.058,3.117,8.091l.034,16.5L-.132,21.525Z" transform="translate(37.564 -2.829) rotate(-43)" fill="rgba(255,255,255,0.28)"/>
+              </g>
+              <g transform="translate(-26.559 1.625)">
+                <path id="Pattern-2" data-name="Pattern" d="M-.135,5.058,3.117,8.091l.034,16.5L-.132,21.525Z" transform="translate(37.564 -2.829) rotate(-43)" fill="rgba(255,255,255,0.28)"/>
+              </g>
+              <g transform="translate(-14.559 1.625)">
+                <path id="Pattern-3" data-name="Pattern" d="M-.135,5.058,3.117,8.091l.034,16.5L-.132,21.525Z" transform="translate(37.564 -2.829) rotate(-43)" fill="rgba(255,255,255,0.28)"/>
+              </g>
+              <g transform="translate(-2.559 1.625)">
+                <path id="Pattern-4" data-name="Pattern" d="M-.135,5.058,3.117,8.091l.034,16.5L-.132,21.525Z" transform="translate(37.564 -2.829) rotate(-43)" fill="rgba(255,255,255,0.28)"/>
+              </g>
+              <g transform="translate(9.441 1.625)">
+                <path id="Pattern-5" data-name="Pattern" d="M-.135,5.058,3.117,8.091l.034,16.5L-.132,21.525Z" transform="translate(37.564 -2.829) rotate(-43)" fill="rgba(255,255,255,0.28)"/>
+              </g>
+              <g transform="translate(21.441 1.625)">
+                <path id="Pattern-6" data-name="Pattern" d="M-.135,5.058,3.117,8.091l.034,16.5L-.132,21.525Z" transform="translate(37.564 -2.829) rotate(-43)" fill="rgba(255,255,255,0.28)"/>
+              </g>
+              <g transform="translate(33.441 1.625)">
+                <path id="Pattern-7" data-name="Pattern" d="M-.135,5.058,3.117,8.091l.034,16.5L-.132,21.525Z" transform="translate(37.564 -2.829) rotate(-43)" fill="rgba(255,255,255,0.28)"/>
+              </g>
+              <g transform="translate(45.441 1.625)">
+                <path id="Pattern-8" data-name="Pattern" d="M-.135,5.058,3.117,8.091l.034,16.5L-.132,21.525Z" transform="translate(37.564 -2.829) rotate(-43)" fill="rgba(255,255,255,0.28)"/>
+              </g>
+              <g transform="translate(57.441 1.625)">
+                <path id="Pattern-9" data-name="Pattern" d="M-.135,5.058,3.117,8.091l.034,16.5L-.132,21.525Z" transform="translate(37.564 -2.829) rotate(-43)" fill="rgba(255,255,255,0.28)"/>
+              </g>
+              <g transform="translate(69.441 1.625)">
+                <path id="Pattern-10" data-name="Pattern" d="M-.135,5.058,3.117,8.091l.034,16.5L-.132,21.525Z" transform="translate(37.564 -2.829) rotate(-43)" fill="rgba(255,255,255,0.28)"/>
+              </g>
+              <g transform="translate(81.441 1.625)">
+                <path id="Pattern-11" data-name="Pattern" d="M-.135,5.058,3.117,8.091l.034,16.5L-.132,21.525Z" transform="translate(37.564 -2.829) rotate(-43)" fill="rgba(255,255,255,0.28)"/>
+              </g>
+              <g transform="translate(93.441 1.625)">
+                <path id="Pattern-12" data-name="Pattern" d="M-.135,5.058,3.117,8.091l.034,16.5L-.132,21.525Z" transform="translate(37.564 -2.829) rotate(-43)" fill="rgba(255,255,255,0.28)"/>
+              </g>
+              <g transform="translate(105.441 1.625)">
+                <path id="Pattern-13" data-name="Pattern" d="M-.135,5.058,3.117,8.091l.034,16.5L-.132,21.525Z" transform="translate(37.564 -2.829) rotate(-43)" fill="rgba(255,255,255,0.28)"/>
+              </g>
+              <g transform="translate(117.441 1.625)">
+                <path id="Pattern-14" data-name="Pattern" d="M-.135,5.058,3.117,8.091l.034,16.5L-.132,21.525Z" transform="translate(37.564 -2.829) rotate(-43)" fill="rgba(255,255,255,0.28)"/>
+              </g>
+              <g transform="translate(129.441 1.625)">
+                <path id="Pattern-15" data-name="Pattern" d="M-.135,5.058,3.117,8.091l.034,16.5L-.132,21.525Z" transform="translate(37.564 -2.829) rotate(-43)" fill="rgba(255,255,255,0.28)"/>
+              </g>
+              <g transform="translate(141.441 1.625)">
+                <path id="Pattern-16" data-name="Pattern" d="M-.135,5.058,3.117,8.091l.034,16.5L-.132,21.525Z" transform="translate(37.564 -2.829) rotate(-43)" fill="rgba(255,255,255,0.28)"/>
+              </g>
+              <g transform="translate(153.441 1.625)">
+                <path id="Pattern-17" data-name="Pattern" d="M-.135,5.058,3.117,8.091l.034,16.5L-.132,21.525Z" transform="translate(37.564 -2.829) rotate(-43)" fill="rgba(255,255,255,0.28)"/>
+              </g>
+              <g transform="translate(165.441 1.625)">
+                <path id="Pattern-18" data-name="Pattern" d="M-.135,5.058,3.117,8.091l.034,16.5L-.132,21.525Z" transform="translate(37.564 -2.829) rotate(-43)" fill="rgba(255,255,255,0.28)"/>
+              </g>
+            </g>
+          </g>
+          <g id="List-2" data-name="List">
+            <g id="Count" transform="translate(118.5 -1.625)">
+              <text id="Primitives" transform="translate(78 68)" fill="#6b91a6" font-size="14" font-family="Tajawal-Bold, Tajawal" font-weight="700"><tspan x="-36.064" y="0">98.7%</tspan></text>
+              <rect id="Eclipse" width="8" height="8" rx="4" transform="translate(67 39)" fill="#6b91a6"/>
+              <text id="Primitives-2" data-name="Primitives" transform="translate(63 47)" fill="#6b91a6" font-size="14" font-family="Tajawal-Bold, Tajawal" font-weight="700"><tspan x="-13.286" y="0">78</tspan></text>
+            </g>
+            <line id="Break" y2="24" transform="translate(208.5 39.874)" fill="none" stroke="rgba(107,145,166,0.29)" stroke-linecap="round" stroke-width="1"/>
+            <g id="Count-2" data-name="Count" transform="translate(178.5 -1.625)">
+              <text id="Primitives-3" data-name="Primitives" transform="translate(78 68)" fill="#f56565" font-size="14" font-family="Tajawal-Bold, Tajawal" font-weight="700"><tspan x="-36.064" y="0">98.7%</tspan></text>
+              <rect id="Eclipse-2" data-name="Eclipse" width="8" height="8" rx="4" transform="translate(67 39)" fill="#f56565"/>
+              <text id="Primitives-4" data-name="Primitives" transform="translate(63 47)" fill="#f56565" font-size="14" font-family="Tajawal-Bold, Tajawal" font-weight="700"><tspan x="-13.286" y="0">78</tspan></text>
+            </g>
+            <line id="Break-2" data-name="Break" y2="24" transform="translate(268.5 39.874)" fill="none" stroke="rgba(107,145,166,0.29)" stroke-linecap="round" stroke-width="1"/>
+            <g id="Count-3" data-name="Count" transform="translate(238.5 -1.625)">
+              <text id="Primitives-5" data-name="Primitives" transform="translate(78 68)" fill="#48bb78" font-size="14" font-family="Tajawal-Bold, Tajawal" font-weight="700"><tspan x="-36.064" y="0">98.7%</tspan></text>
+              <rect id="Eclipse-3" data-name="Eclipse" width="8" height="8" rx="4" transform="translate(67 39)" fill="#48bb78"/>
+              <text id="Primitives-6" data-name="Primitives" transform="translate(63 47)" fill="#48bb78" font-size="14" font-family="Tajawal-Bold, Tajawal" font-weight="700"><tspan x="-13.286" y="0">78</tspan></text>
+            </g>
+          </g>
+        </g>
+        <g id="Details" transform="translate(182 54.198)">
+          <text id="Primitives-7" data-name="Primitives" transform="translate(-12 14)" fill="#6b91a6" font-size="14" font-family="Tajawal-Medium, Tajawal" font-weight="500"><tspan x="-136.416" y="0">142.50</tspan><tspan y="0">المعدل الوسيط </tspan></text>
+          <text id="Primitives-8" data-name="Primitives" transform="translate(73 14)" fill="#6b91a6" font-size="14" font-family="Tajawal-Medium, Tajawal" font-weight="500"><tspan x="-57.337" y="0">140</tspan><tspan y="0">مجموع الطلاب </tspan><tspan y="0"> </tspan></text>
+          <circle id="Ellipse" cx="2" cy="2" r="2" transform="translate(0 8)" fill="#6b91a6"/>
+        </g>
+        <g id="Heading" transform="translate(174.369 24.198)">
+          <text id="Primitives-9" data-name="Primitives" transform="translate(140 21)" fill="#406983" font-size="20" font-family="Tajawal-Bold, Tajawal" font-weight="700"><tspan x="-109.4" y="0">منابع العلوم</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g transform="translate(0 114)">
+      <g id="Overlay-2" data-name="Overlay" transform="translate(147 -12)" clip-path="url(#clip-path-2)" style="isolation: isolate">
+        <g id="Schools-2" data-name="Schools" transform="translate(-100.369 -12.198)">
+          <rect id="Square-2" data-name="Square" width="360" height="93" transform="translate(-41.5 24.198)" fill="none"/>
+          <g id="_ٍStatus-2" data-name="ٍStatus" transform="translate(-6 44.823)">
+            <g id="Progresss-2" data-name="Progresss" transform="translate(-34.02 44.375)">
+              <path id="Division-4" data-name="Division" d="M0,0H85a6,6,0,0,1,6,6V6a6,6,0,0,1-6,6H0a0,0,0,0,1,0,0V0A0,0,0,0,1,0,0Z" transform="translate(89.52 1)" fill="#48bb78"/>
+              <path id="Division-5" data-name="Division" d="M6,0H21a0,0,0,0,1,0,0V12a0,0,0,0,1,0,0H6A6,6,0,0,1,0,6V6A6,6,0,0,1,6,0Z" transform="translate(2.52 1)" fill="#6b91a6"/>
+              <rect id="Division-6" data-name="Division" width="66" height="12" transform="translate(23.52 1)" fill="#f56565"/>
+              <g id="Patterns-2" data-name="Patterns" transform="translate(2.559 -1.595)" clip-path="url(#clip-path-3)">
+                <g transform="translate(-38.559 1.625)">
+                  <path id="Pattern-19" data-name="Pattern" d="M-.135,5.058,3.117,8.091l.034,16.5L-.132,21.525Z" transform="translate(37.564 -2.829) rotate(-43)" fill="rgba(255,255,255,0.28)"/>
+                </g>
+                <g transform="translate(-26.559 1.625)">
+                  <path id="Pattern-20" data-name="Pattern" d="M-.135,5.058,3.117,8.091l.034,16.5L-.132,21.525Z" transform="translate(37.564 -2.829) rotate(-43)" fill="rgba(255,255,255,0.28)"/>
+                </g>
+                <g transform="translate(-14.559 1.625)">
+                  <path id="Pattern-21" data-name="Pattern" d="M-.135,5.058,3.117,8.091l.034,16.5L-.132,21.525Z" transform="translate(37.564 -2.829) rotate(-43)" fill="rgba(255,255,255,0.28)"/>
+                </g>
+                <g transform="translate(-2.559 1.625)">
+                  <path id="Pattern-22" data-name="Pattern" d="M-.135,5.058,3.117,8.091l.034,16.5L-.132,21.525Z" transform="translate(37.564 -2.829) rotate(-43)" fill="rgba(255,255,255,0.28)"/>
+                </g>
+                <g transform="translate(9.441 1.625)">
+                  <path id="Pattern-23" data-name="Pattern" d="M-.135,5.058,3.117,8.091l.034,16.5L-.132,21.525Z" transform="translate(37.564 -2.829) rotate(-43)" fill="rgba(255,255,255,0.28)"/>
+                </g>
+                <g transform="translate(21.441 1.625)">
+                  <path id="Pattern-24" data-name="Pattern" d="M-.135,5.058,3.117,8.091l.034,16.5L-.132,21.525Z" transform="translate(37.564 -2.829) rotate(-43)" fill="rgba(255,255,255,0.28)"/>
+                </g>
+                <g transform="translate(33.441 1.625)">
+                  <path id="Pattern-25" data-name="Pattern" d="M-.135,5.058,3.117,8.091l.034,16.5L-.132,21.525Z" transform="translate(37.564 -2.829) rotate(-43)" fill="rgba(255,255,255,0.28)"/>
+                </g>
+                <g transform="translate(45.441 1.625)">
+                  <path id="Pattern-26" data-name="Pattern" d="M-.135,5.058,3.117,8.091l.034,16.5L-.132,21.525Z" transform="translate(37.564 -2.829) rotate(-43)" fill="rgba(255,255,255,0.28)"/>
+                </g>
+                <g transform="translate(57.441 1.625)">
+                  <path id="Pattern-27" data-name="Pattern" d="M-.135,5.058,3.117,8.091l.034,16.5L-.132,21.525Z" transform="translate(37.564 -2.829) rotate(-43)" fill="rgba(255,255,255,0.28)"/>
+                </g>
+                <g transform="translate(69.441 1.625)">
+                  <path id="Pattern-28" data-name="Pattern" d="M-.135,5.058,3.117,8.091l.034,16.5L-.132,21.525Z" transform="translate(37.564 -2.829) rotate(-43)" fill="rgba(255,255,255,0.28)"/>
+                </g>
+                <g transform="translate(81.441 1.625)">
+                  <path id="Pattern-29" data-name="Pattern" d="M-.135,5.058,3.117,8.091l.034,16.5L-.132,21.525Z" transform="translate(37.564 -2.829) rotate(-43)" fill="rgba(255,255,255,0.28)"/>
+                </g>
+                <g transform="translate(93.441 1.625)">
+                  <path id="Pattern-30" data-name="Pattern" d="M-.135,5.058,3.117,8.091l.034,16.5L-.132,21.525Z" transform="translate(37.564 -2.829) rotate(-43)" fill="rgba(255,255,255,0.28)"/>
+                </g>
+                <g transform="translate(105.441 1.625)">
+                  <path id="Pattern-31" data-name="Pattern" d="M-.135,5.058,3.117,8.091l.034,16.5L-.132,21.525Z" transform="translate(37.564 -2.829) rotate(-43)" fill="rgba(255,255,255,0.28)"/>
+                </g>
+                <g transform="translate(117.441 1.625)">
+                  <path id="Pattern-32" data-name="Pattern" d="M-.135,5.058,3.117,8.091l.034,16.5L-.132,21.525Z" transform="translate(37.564 -2.829) rotate(-43)" fill="rgba(255,255,255,0.28)"/>
+                </g>
+                <g transform="translate(129.441 1.625)">
+                  <path id="Pattern-33" data-name="Pattern" d="M-.135,5.058,3.117,8.091l.034,16.5L-.132,21.525Z" transform="translate(37.564 -2.829) rotate(-43)" fill="rgba(255,255,255,0.28)"/>
+                </g>
+                <g transform="translate(141.441 1.625)">
+                  <path id="Pattern-34" data-name="Pattern" d="M-.135,5.058,3.117,8.091l.034,16.5L-.132,21.525Z" transform="translate(37.564 -2.829) rotate(-43)" fill="rgba(255,255,255,0.28)"/>
+                </g>
+                <g transform="translate(153.441 1.625)">
+                  <path id="Pattern-35" data-name="Pattern" d="M-.135,5.058,3.117,8.091l.034,16.5L-.132,21.525Z" transform="translate(37.564 -2.829) rotate(-43)" fill="rgba(255,255,255,0.28)"/>
+                </g>
+                <g transform="translate(165.441 1.625)">
+                  <path id="Pattern-36" data-name="Pattern" d="M-.135,5.058,3.117,8.091l.034,16.5L-.132,21.525Z" transform="translate(37.564 -2.829) rotate(-43)" fill="rgba(255,255,255,0.28)"/>
+                </g>
+              </g>
+            </g>
+            <g id="List-3" data-name="List">
+              <g id="Count-4" data-name="Count" transform="translate(118.5 -1.625)">
+                <text id="Primitives-10" data-name="Primitives" transform="translate(78 68)" fill="#6b91a6" font-size="14" font-family="Tajawal-Bold, Tajawal" font-weight="700"><tspan x="-36.064" y="0">98.7%</tspan></text>
+                <rect id="Eclipse-4" data-name="Eclipse" width="8" height="8" rx="4" transform="translate(67 39)" fill="#6b91a6"/>
+                <text id="Primitives-11" data-name="Primitives" transform="translate(63 47)" fill="#6b91a6" font-size="14" font-family="Tajawal-Bold, Tajawal" font-weight="700"><tspan x="-13.286" y="0">78</tspan></text>
+              </g>
+              <line id="Break-3" data-name="Break" y2="24" transform="translate(208.5 39.874)" fill="none" stroke="rgba(107,145,166,0.29)" stroke-linecap="round" stroke-width="1"/>
+              <g id="Count-5" data-name="Count" transform="translate(178.5 -1.625)">
+                <text id="Primitives-12" data-name="Primitives" transform="translate(78 68)" fill="#f56565" font-size="14" font-family="Tajawal-Bold, Tajawal" font-weight="700"><tspan x="-36.064" y="0">98.7%</tspan></text>
+                <rect id="Eclipse-5" data-name="Eclipse" width="8" height="8" rx="4" transform="translate(67 39)" fill="#f56565"/>
+                <text id="Primitives-13" data-name="Primitives" transform="translate(63 47)" fill="#f56565" font-size="14" font-family="Tajawal-Bold, Tajawal" font-weight="700"><tspan x="-13.286" y="0">78</tspan></text>
+              </g>
+              <line id="Break-4" data-name="Break" y2="24" transform="translate(268.5 39.874)" fill="none" stroke="rgba(107,145,166,0.29)" stroke-linecap="round" stroke-width="1"/>
+              <g id="Count-6" data-name="Count" transform="translate(238.5 -1.625)">
+                <text id="Primitives-14" data-name="Primitives" transform="translate(78 68)" fill="#48bb78" font-size="14" font-family="Tajawal-Bold, Tajawal" font-weight="700"><tspan x="-36.064" y="0">98.7%</tspan></text>
+                <rect id="Eclipse-6" data-name="Eclipse" width="8" height="8" rx="4" transform="translate(67 39)" fill="#48bb78"/>
+                <text id="Primitives-15" data-name="Primitives" transform="translate(63 47)" fill="#48bb78" font-size="14" font-family="Tajawal-Bold, Tajawal" font-weight="700"><tspan x="-13.286" y="0">78</tspan></text>
+              </g>
+            </g>
+          </g>
+          <g id="Details-2" data-name="Details" transform="translate(182 54.198)">
+            <text id="Primitives-16" data-name="Primitives" transform="translate(-12 14)" fill="#6b91a6" font-size="14" font-family="Tajawal-Medium, Tajawal" font-weight="500"><tspan x="-136.416" y="0">142.50</tspan><tspan y="0">المعدل الوسيط </tspan></text>
+            <text id="Primitives-17" data-name="Primitives" transform="translate(73 14)" fill="#6b91a6" font-size="14" font-family="Tajawal-Medium, Tajawal" font-weight="500"><tspan x="-57.337" y="0">140</tspan><tspan y="0">مجموع الطلاب </tspan><tspan y="0"> </tspan></text>
+            <circle id="Ellipse-2" data-name="Ellipse" cx="2" cy="2" r="2" transform="translate(0 8)" fill="#6b91a6"/>
+          </g>
+          <g id="Heading-2" data-name="Heading" transform="translate(174.369 24.198)">
+            <text id="Primitives-18" data-name="Primitives" transform="translate(140 21)" fill="#406983" font-size="20" font-family="Tajawal-Bold, Tajawal" font-weight="700"><tspan x="-109.4" y="0">منابع العلوم</tspan></text>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g transform="translate(0 228)">
+      <g id="Overlay-3" data-name="Overlay" transform="translate(147 -12)" clip-path="url(#clip-path-2)" style="isolation: isolate">
+        <g id="Schools-3" data-name="Schools" transform="translate(-100.369 -12.198)">
+          <rect id="Square-3" data-name="Square" width="360" height="93" transform="translate(-41.5 24.198)" fill="none"/>
+          <g id="_ٍStatus-3" data-name="ٍStatus" transform="translate(-6 44.823)">
+            <g id="Progresss-3" data-name="Progresss" transform="translate(-34.02 44.375)">
+              <path id="Division-7" data-name="Division" d="M0,0H85a6,6,0,0,1,6,6V6a6,6,0,0,1-6,6H0a0,0,0,0,1,0,0V0A0,0,0,0,1,0,0Z" transform="translate(89.52 1)" fill="#48bb78"/>
+              <path id="Division-8" data-name="Division" d="M6,0H21a0,0,0,0,1,0,0V12a0,0,0,0,1,0,0H6A6,6,0,0,1,0,6V6A6,6,0,0,1,6,0Z" transform="translate(2.52 1)" fill="#6b91a6"/>
+              <rect id="Division-9" data-name="Division" width="66" height="12" transform="translate(23.52 1)" fill="#f56565"/>
+              <g id="Patterns-3" data-name="Patterns" transform="translate(2.559 -1.595)" clip-path="url(#clip-path-3)">
+                <g transform="translate(-38.559 1.625)">
+                  <path id="Pattern-37" data-name="Pattern" d="M-.135,5.058,3.117,8.091l.034,16.5L-.132,21.525Z" transform="translate(37.564 -2.829) rotate(-43)" fill="rgba(255,255,255,0.28)"/>
+                </g>
+                <g transform="translate(-26.559 1.625)">
+                  <path id="Pattern-38" data-name="Pattern" d="M-.135,5.058,3.117,8.091l.034,16.5L-.132,21.525Z" transform="translate(37.564 -2.829) rotate(-43)" fill="rgba(255,255,255,0.28)"/>
+                </g>
+                <g transform="translate(-14.559 1.625)">
+                  <path id="Pattern-39" data-name="Pattern" d="M-.135,5.058,3.117,8.091l.034,16.5L-.132,21.525Z" transform="translate(37.564 -2.829) rotate(-43)" fill="rgba(255,255,255,0.28)"/>
+                </g>
+                <g transform="translate(-2.559 1.625)">
+                  <path id="Pattern-40" data-name="Pattern" d="M-.135,5.058,3.117,8.091l.034,16.5L-.132,21.525Z" transform="translate(37.564 -2.829) rotate(-43)" fill="rgba(255,255,255,0.28)"/>
+                </g>
+                <g transform="translate(9.441 1.625)">
+                  <path id="Pattern-41" data-name="Pattern" d="M-.135,5.058,3.117,8.091l.034,16.5L-.132,21.525Z" transform="translate(37.564 -2.829) rotate(-43)" fill="rgba(255,255,255,0.28)"/>
+                </g>
+                <g transform="translate(21.441 1.625)">
+                  <path id="Pattern-42" data-name="Pattern" d="M-.135,5.058,3.117,8.091l.034,16.5L-.132,21.525Z" transform="translate(37.564 -2.829) rotate(-43)" fill="rgba(255,255,255,0.28)"/>
+                </g>
+                <g transform="translate(33.441 1.625)">
+                  <path id="Pattern-43" data-name="Pattern" d="M-.135,5.058,3.117,8.091l.034,16.5L-.132,21.525Z" transform="translate(37.564 -2.829) rotate(-43)" fill="rgba(255,255,255,0.28)"/>
+                </g>
+                <g transform="translate(45.441 1.625)">
+                  <path id="Pattern-44" data-name="Pattern" d="M-.135,5.058,3.117,8.091l.034,16.5L-.132,21.525Z" transform="translate(37.564 -2.829) rotate(-43)" fill="rgba(255,255,255,0.28)"/>
+                </g>
+                <g transform="translate(57.441 1.625)">
+                  <path id="Pattern-45" data-name="Pattern" d="M-.135,5.058,3.117,8.091l.034,16.5L-.132,21.525Z" transform="translate(37.564 -2.829) rotate(-43)" fill="rgba(255,255,255,0.28)"/>
+                </g>
+                <g transform="translate(69.441 1.625)">
+                  <path id="Pattern-46" data-name="Pattern" d="M-.135,5.058,3.117,8.091l.034,16.5L-.132,21.525Z" transform="translate(37.564 -2.829) rotate(-43)" fill="rgba(255,255,255,0.28)"/>
+                </g>
+                <g transform="translate(81.441 1.625)">
+                  <path id="Pattern-47" data-name="Pattern" d="M-.135,5.058,3.117,8.091l.034,16.5L-.132,21.525Z" transform="translate(37.564 -2.829) rotate(-43)" fill="rgba(255,255,255,0.28)"/>
+                </g>
+                <g transform="translate(93.441 1.625)">
+                  <path id="Pattern-48" data-name="Pattern" d="M-.135,5.058,3.117,8.091l.034,16.5L-.132,21.525Z" transform="translate(37.564 -2.829) rotate(-43)" fill="rgba(255,255,255,0.28)"/>
+                </g>
+                <g transform="translate(105.441 1.625)">
+                  <path id="Pattern-49" data-name="Pattern" d="M-.135,5.058,3.117,8.091l.034,16.5L-.132,21.525Z" transform="translate(37.564 -2.829) rotate(-43)" fill="rgba(255,255,255,0.28)"/>
+                </g>
+                <g transform="translate(117.441 1.625)">
+                  <path id="Pattern-50" data-name="Pattern" d="M-.135,5.058,3.117,8.091l.034,16.5L-.132,21.525Z" transform="translate(37.564 -2.829) rotate(-43)" fill="rgba(255,255,255,0.28)"/>
+                </g>
+                <g transform="translate(129.441 1.625)">
+                  <path id="Pattern-51" data-name="Pattern" d="M-.135,5.058,3.117,8.091l.034,16.5L-.132,21.525Z" transform="translate(37.564 -2.829) rotate(-43)" fill="rgba(255,255,255,0.28)"/>
+                </g>
+                <g transform="translate(141.441 1.625)">
+                  <path id="Pattern-52" data-name="Pattern" d="M-.135,5.058,3.117,8.091l.034,16.5L-.132,21.525Z" transform="translate(37.564 -2.829) rotate(-43)" fill="rgba(255,255,255,0.28)"/>
+                </g>
+                <g transform="translate(153.441 1.625)">
+                  <path id="Pattern-53" data-name="Pattern" d="M-.135,5.058,3.117,8.091l.034,16.5L-.132,21.525Z" transform="translate(37.564 -2.829) rotate(-43)" fill="rgba(255,255,255,0.28)"/>
+                </g>
+                <g transform="translate(165.441 1.625)">
+                  <path id="Pattern-54" data-name="Pattern" d="M-.135,5.058,3.117,8.091l.034,16.5L-.132,21.525Z" transform="translate(37.564 -2.829) rotate(-43)" fill="rgba(255,255,255,0.28)"/>
+                </g>
+              </g>
+            </g>
+            <g id="List-4" data-name="List">
+              <g id="Count-7" data-name="Count" transform="translate(118.5 -1.625)">
+                <text id="Primitives-19" data-name="Primitives" transform="translate(78 68)" fill="#6b91a6" font-size="14" font-family="Tajawal-Bold, Tajawal" font-weight="700"><tspan x="-36.064" y="0">98.7%</tspan></text>
+                <rect id="Eclipse-7" data-name="Eclipse" width="8" height="8" rx="4" transform="translate(67 39)" fill="#6b91a6"/>
+                <text id="Primitives-20" data-name="Primitives" transform="translate(63 47)" fill="#6b91a6" font-size="14" font-family="Tajawal-Bold, Tajawal" font-weight="700"><tspan x="-13.286" y="0">78</tspan></text>
+              </g>
+              <line id="Break-5" data-name="Break" y2="24" transform="translate(208.5 39.874)" fill="none" stroke="rgba(107,145,166,0.29)" stroke-linecap="round" stroke-width="1"/>
+              <g id="Count-8" data-name="Count" transform="translate(178.5 -1.625)">
+                <text id="Primitives-21" data-name="Primitives" transform="translate(78 68)" fill="#f56565" font-size="14" font-family="Tajawal-Bold, Tajawal" font-weight="700"><tspan x="-36.064" y="0">98.7%</tspan></text>
+                <rect id="Eclipse-8" data-name="Eclipse" width="8" height="8" rx="4" transform="translate(67 39)" fill="#f56565"/>
+                <text id="Primitives-22" data-name="Primitives" transform="translate(63 47)" fill="#f56565" font-size="14" font-family="Tajawal-Bold, Tajawal" font-weight="700"><tspan x="-13.286" y="0">78</tspan></text>
+              </g>
+              <line id="Break-6" data-name="Break" y2="24" transform="translate(268.5 39.874)" fill="none" stroke="rgba(107,145,166,0.29)" stroke-linecap="round" stroke-width="1"/>
+              <g id="Count-9" data-name="Count" transform="translate(238.5 -1.625)">
+                <text id="Primitives-23" data-name="Primitives" transform="translate(78 68)" fill="#48bb78" font-size="14" font-family="Tajawal-Bold, Tajawal" font-weight="700"><tspan x="-36.064" y="0">98.7%</tspan></text>
+                <rect id="Eclipse-9" data-name="Eclipse" width="8" height="8" rx="4" transform="translate(67 39)" fill="#48bb78"/>
+                <text id="Primitives-24" data-name="Primitives" transform="translate(63 47)" fill="#48bb78" font-size="14" font-family="Tajawal-Bold, Tajawal" font-weight="700"><tspan x="-13.286" y="0">78</tspan></text>
+              </g>
+            </g>
+          </g>
+          <g id="Details-3" data-name="Details" transform="translate(182 54.198)">
+            <text id="Primitives-25" data-name="Primitives" transform="translate(-12 14)" fill="#6b91a6" font-size="14" font-family="Tajawal-Medium, Tajawal" font-weight="500"><tspan x="-136.416" y="0">142.50</tspan><tspan y="0">المعدل الوسيط </tspan></text>
+            <text id="Primitives-26" data-name="Primitives" transform="translate(73 14)" fill="#6b91a6" font-size="14" font-family="Tajawal-Medium, Tajawal" font-weight="500"><tspan x="-57.337" y="0">140</tspan><tspan y="0">مجموع الطلاب </tspan><tspan y="0"> </tspan></text>
+            <circle id="Ellipse-3" data-name="Ellipse" cx="2" cy="2" r="2" transform="translate(0 8)" fill="#6b91a6"/>
+          </g>
+          <g id="Heading-3" data-name="Heading" transform="translate(174.369 24.198)">
+            <text id="Primitives-27" data-name="Primitives" transform="translate(140 21)" fill="#406983" font-size="20" font-family="Tajawal-Bold, Tajawal" font-weight="700"><tspan x="-109.4" y="0">منابع العلوم</tspan></text>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g transform="translate(0 342)">
+      <g id="Overlay-4" data-name="Overlay" transform="translate(147 -12)" clip-path="url(#clip-path-2)" style="isolation: isolate">
+        <g id="Schools-4" data-name="Schools" transform="translate(-100.369 -12.198)">
+          <rect id="Square-4" data-name="Square" width="360" height="93" transform="translate(-41.5 24.198)" fill="none"/>
+          <g id="_ٍStatus-4" data-name="ٍStatus" transform="translate(-6 44.823)">
+            <g id="Progresss-4" data-name="Progresss" transform="translate(-34.02 44.375)">
+              <path id="Division-10" data-name="Division" d="M0,0H85a6,6,0,0,1,6,6V6a6,6,0,0,1-6,6H0a0,0,0,0,1,0,0V0A0,0,0,0,1,0,0Z" transform="translate(89.52 1)" fill="#48bb78"/>
+              <path id="Division-11" data-name="Division" d="M6,0H21a0,0,0,0,1,0,0V12a0,0,0,0,1,0,0H6A6,6,0,0,1,0,6V6A6,6,0,0,1,6,0Z" transform="translate(2.52 1)" fill="#6b91a6"/>
+              <rect id="Division-12" data-name="Division" width="66" height="12" transform="translate(23.52 1)" fill="#f56565"/>
+              <g id="Patterns-4" data-name="Patterns" transform="translate(2.559 -1.595)" clip-path="url(#clip-path-3)">
+                <g transform="translate(-38.559 1.625)">
+                  <path id="Pattern-55" data-name="Pattern" d="M-.135,5.058,3.117,8.091l.034,16.5L-.132,21.525Z" transform="translate(37.564 -2.829) rotate(-43)" fill="rgba(255,255,255,0.28)"/>
+                </g>
+                <g transform="translate(-26.559 1.625)">
+                  <path id="Pattern-56" data-name="Pattern" d="M-.135,5.058,3.117,8.091l.034,16.5L-.132,21.525Z" transform="translate(37.564 -2.829) rotate(-43)" fill="rgba(255,255,255,0.28)"/>
+                </g>
+                <g transform="translate(-14.559 1.625)">
+                  <path id="Pattern-57" data-name="Pattern" d="M-.135,5.058,3.117,8.091l.034,16.5L-.132,21.525Z" transform="translate(37.564 -2.829) rotate(-43)" fill="rgba(255,255,255,0.28)"/>
+                </g>
+                <g transform="translate(-2.559 1.625)">
+                  <path id="Pattern-58" data-name="Pattern" d="M-.135,5.058,3.117,8.091l.034,16.5L-.132,21.525Z" transform="translate(37.564 -2.829) rotate(-43)" fill="rgba(255,255,255,0.28)"/>
+                </g>
+                <g transform="translate(9.441 1.625)">
+                  <path id="Pattern-59" data-name="Pattern" d="M-.135,5.058,3.117,8.091l.034,16.5L-.132,21.525Z" transform="translate(37.564 -2.829) rotate(-43)" fill="rgba(255,255,255,0.28)"/>
+                </g>
+                <g transform="translate(21.441 1.625)">
+                  <path id="Pattern-60" data-name="Pattern" d="M-.135,5.058,3.117,8.091l.034,16.5L-.132,21.525Z" transform="translate(37.564 -2.829) rotate(-43)" fill="rgba(255,255,255,0.28)"/>
+                </g>
+                <g transform="translate(33.441 1.625)">
+                  <path id="Pattern-61" data-name="Pattern" d="M-.135,5.058,3.117,8.091l.034,16.5L-.132,21.525Z" transform="translate(37.564 -2.829) rotate(-43)" fill="rgba(255,255,255,0.28)"/>
+                </g>
+                <g transform="translate(45.441 1.625)">
+                  <path id="Pattern-62" data-name="Pattern" d="M-.135,5.058,3.117,8.091l.034,16.5L-.132,21.525Z" transform="translate(37.564 -2.829) rotate(-43)" fill="rgba(255,255,255,0.28)"/>
+                </g>
+                <g transform="translate(57.441 1.625)">
+                  <path id="Pattern-63" data-name="Pattern" d="M-.135,5.058,3.117,8.091l.034,16.5L-.132,21.525Z" transform="translate(37.564 -2.829) rotate(-43)" fill="rgba(255,255,255,0.28)"/>
+                </g>
+                <g transform="translate(69.441 1.625)">
+                  <path id="Pattern-64" data-name="Pattern" d="M-.135,5.058,3.117,8.091l.034,16.5L-.132,21.525Z" transform="translate(37.564 -2.829) rotate(-43)" fill="rgba(255,255,255,0.28)"/>
+                </g>
+                <g transform="translate(81.441 1.625)">
+                  <path id="Pattern-65" data-name="Pattern" d="M-.135,5.058,3.117,8.091l.034,16.5L-.132,21.525Z" transform="translate(37.564 -2.829) rotate(-43)" fill="rgba(255,255,255,0.28)"/>
+                </g>
+                <g transform="translate(93.441 1.625)">
+                  <path id="Pattern-66" data-name="Pattern" d="M-.135,5.058,3.117,8.091l.034,16.5L-.132,21.525Z" transform="translate(37.564 -2.829) rotate(-43)" fill="rgba(255,255,255,0.28)"/>
+                </g>
+                <g transform="translate(105.441 1.625)">
+                  <path id="Pattern-67" data-name="Pattern" d="M-.135,5.058,3.117,8.091l.034,16.5L-.132,21.525Z" transform="translate(37.564 -2.829) rotate(-43)" fill="rgba(255,255,255,0.28)"/>
+                </g>
+                <g transform="translate(117.441 1.625)">
+                  <path id="Pattern-68" data-name="Pattern" d="M-.135,5.058,3.117,8.091l.034,16.5L-.132,21.525Z" transform="translate(37.564 -2.829) rotate(-43)" fill="rgba(255,255,255,0.28)"/>
+                </g>
+                <g transform="translate(129.441 1.625)">
+                  <path id="Pattern-69" data-name="Pattern" d="M-.135,5.058,3.117,8.091l.034,16.5L-.132,21.525Z" transform="translate(37.564 -2.829) rotate(-43)" fill="rgba(255,255,255,0.28)"/>
+                </g>
+                <g transform="translate(141.441 1.625)">
+                  <path id="Pattern-70" data-name="Pattern" d="M-.135,5.058,3.117,8.091l.034,16.5L-.132,21.525Z" transform="translate(37.564 -2.829) rotate(-43)" fill="rgba(255,255,255,0.28)"/>
+                </g>
+                <g transform="translate(153.441 1.625)">
+                  <path id="Pattern-71" data-name="Pattern" d="M-.135,5.058,3.117,8.091l.034,16.5L-.132,21.525Z" transform="translate(37.564 -2.829) rotate(-43)" fill="rgba(255,255,255,0.28)"/>
+                </g>
+                <g transform="translate(165.441 1.625)">
+                  <path id="Pattern-72" data-name="Pattern" d="M-.135,5.058,3.117,8.091l.034,16.5L-.132,21.525Z" transform="translate(37.564 -2.829) rotate(-43)" fill="rgba(255,255,255,0.28)"/>
+                </g>
+              </g>
+            </g>
+            <g id="List-5" data-name="List">
+              <g id="Count-10" data-name="Count" transform="translate(118.5 -1.625)">
+                <text id="Primitives-28" data-name="Primitives" transform="translate(78 68)" fill="#6b91a6" font-size="14" font-family="Tajawal-Bold, Tajawal" font-weight="700"><tspan x="-36.064" y="0">98.7%</tspan></text>
+                <rect id="Eclipse-10" data-name="Eclipse" width="8" height="8" rx="4" transform="translate(67 39)" fill="#6b91a6"/>
+                <text id="Primitives-29" data-name="Primitives" transform="translate(63 47)" fill="#6b91a6" font-size="14" font-family="Tajawal-Bold, Tajawal" font-weight="700"><tspan x="-13.286" y="0">78</tspan></text>
+              </g>
+              <line id="Break-7" data-name="Break" y2="24" transform="translate(208.5 39.874)" fill="none" stroke="rgba(107,145,166,0.29)" stroke-linecap="round" stroke-width="1"/>
+              <g id="Count-11" data-name="Count" transform="translate(178.5 -1.625)">
+                <text id="Primitives-30" data-name="Primitives" transform="translate(78 68)" fill="#f56565" font-size="14" font-family="Tajawal-Bold, Tajawal" font-weight="700"><tspan x="-36.064" y="0">98.7%</tspan></text>
+                <rect id="Eclipse-11" data-name="Eclipse" width="8" height="8" rx="4" transform="translate(67 39)" fill="#f56565"/>
+                <text id="Primitives-31" data-name="Primitives" transform="translate(63 47)" fill="#f56565" font-size="14" font-family="Tajawal-Bold, Tajawal" font-weight="700"><tspan x="-13.286" y="0">78</tspan></text>
+              </g>
+              <line id="Break-8" data-name="Break" y2="24" transform="translate(268.5 39.874)" fill="none" stroke="rgba(107,145,166,0.29)" stroke-linecap="round" stroke-width="1"/>
+              <g id="Count-12" data-name="Count" transform="translate(238.5 -1.625)">
+                <text id="Primitives-32" data-name="Primitives" transform="translate(78 68)" fill="#48bb78" font-size="14" font-family="Tajawal-Bold, Tajawal" font-weight="700"><tspan x="-36.064" y="0">98.7%</tspan></text>
+                <rect id="Eclipse-12" data-name="Eclipse" width="8" height="8" rx="4" transform="translate(67 39)" fill="#48bb78"/>
+                <text id="Primitives-33" data-name="Primitives" transform="translate(63 47)" fill="#48bb78" font-size="14" font-family="Tajawal-Bold, Tajawal" font-weight="700"><tspan x="-13.286" y="0">78</tspan></text>
+              </g>
+            </g>
+          </g>
+          <g id="Details-4" data-name="Details" transform="translate(182 54.198)">
+            <text id="Primitives-34" data-name="Primitives" transform="translate(-12 14)" fill="#6b91a6" font-size="14" font-family="Tajawal-Medium, Tajawal" font-weight="500"><tspan x="-136.416" y="0">142.50</tspan><tspan y="0">المعدل الوسيط </tspan></text>
+            <text id="Primitives-35" data-name="Primitives" transform="translate(73 14)" fill="#6b91a6" font-size="14" font-family="Tajawal-Medium, Tajawal" font-weight="500"><tspan x="-57.337" y="0">140</tspan><tspan y="0">مجموع الطلاب </tspan><tspan y="0"> </tspan></text>
+            <circle id="Ellipse-4" data-name="Ellipse" cx="2" cy="2" r="2" transform="translate(0 8)" fill="#6b91a6"/>
+          </g>
+          <g id="Heading-4" data-name="Heading" transform="translate(174.369 24.198)">
+            <text id="Primitives-36" data-name="Primitives" transform="translate(140 21)" fill="#406983" font-size="20" font-family="Tajawal-Bold, Tajawal" font-weight="700"><tspan x="-109.4" y="0">منابع العلوم</tspan></text>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

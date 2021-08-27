@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="440" height="78.197" viewBox="0 0 440 78.197">
+  <defs>
+    <filter id="Menu" x="0" y="0" width="440" height="78.197" filterUnits="userSpaceOnUse">
+      <feOffset dy="-2" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2" result="blur"/>
+      <feFlood flood-color="#044468" flood-opacity="0.2"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Menu-2" data-name="Menu" transform="translate(6 8)">
+    <g transform="matrix(1, 0, 0, 1, -6, -8)" filter="url(#Menu)">
+      <path id="Menu-3" data-name="Menu" d="M0,0H428V66.2H0Z" transform="translate(6 8)" fill="#fff"/>
+    </g>
+    <g id="Share" transform="translate(277)">
+      <rect id="Tab" width="101.378" height="66.197" fill="none"/>
+      <g id="Share-2" data-name="Share" transform="translate(39 18.197)">
+        <path id="Path" d="M19.5,0a1.5,1.5,0,0,1,.144,2.993L19.5,3H6.361a3.361,3.361,0,0,0-.184,6.717l.184,0H6.5a1.5,1.5,0,0,1,.144,2.993l-.144.007H6.361A6.361,6.361,0,0,1,6.133,0l.228,0Z" transform="translate(0 8.278)" fill="#6b91a6"/>
+        <path id="Path-2" data-name="Path" d="M.439.439a1.5,1.5,0,0,1,2.007-.1l.114.1L7.839,5.718a1.5,1.5,0,0,1,.1,2.007l-.1.114L2.561,13.117A1.5,1.5,0,0,1,.336,11.11L.439,11,4.657,6.778.439,2.561A1.5,1.5,0,0,1,.336.553Z" transform="translate(15.722 3)" fill="#6b91a6"/>
+      </g>
+    </g>
+    <g id="Search" transform="translate(163.5)">
+      <rect id="Tab-2" data-name="Tab" width="104.794" height="66.197" fill="none"/>
+      <g id="Search-2" data-name="Search" transform="translate(40.5 18.197)">
+        <path id="Shape" d="M21.439,23.561,16.788,18.91A10.5,10.5,0,1,1,10.5,0V3A7.5,7.5,0,1,0,18,10.5,7.5,7.5,0,0,0,10.5,3V0A10.5,10.5,0,0,1,18.91,16.788l4.652,4.651a1.5,1.5,0,0,1-2.122,2.122Z" fill="#044468"/>
+      </g>
+    </g>
+    <g id="Home" transform="translate(50)">
+      <rect id="Tab-3" data-name="Tab" width="100" height="66.197" fill="none"/>
+      <g id="Home-2" data-name="Home" transform="translate(38 18.197)">
+        <path id="Path-3" data-name="Path" d="M21.5,24H17a2.5,2.5,0,0,1-2.5-2.5V19a2.5,2.5,0,1,0-5,0v2.5A2.5,2.5,0,0,1,7,24H2.5A2.5,2.5,0,0,1,0,21.5V10.932A5.5,5.5,0,0,1,2.346,6.427L11.14.271a1.5,1.5,0,0,1,1.72,0l8.794,6.156A5.5,5.5,0,0,1,24,10.932V21.5A2.5,2.5,0,0,1,21.5,24ZM12,13.5A5.506,5.506,0,0,1,17.5,19v2H21V10.932A2.491,2.491,0,0,0,20.083,9l-.149-.113L12,3.33,4.066,8.885A2.5,2.5,0,0,0,3,10.932V21H6.5V19a5.5,5.5,0,0,1,5.279-5.5Z" transform="translate(0 0)" fill="#6b91a6"/>
+      </g>
+    </g>
+    <rect id="Active" width="100" height="2" transform="translate(166 64.197)" fill="#044468"/>
+  </g>
+</svg>

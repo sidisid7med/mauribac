@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="153" height="70" viewBox="0 0 153 70">
+  <defs>
+    <filter id="Btn" x="0" y="0" width="153" height="70" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-color="#044468" flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Btn-Medium" transform="translate(9 6)">
+    <g transform="matrix(1, 0, 0, 1, -9, -6)" filter="url(#Btn)">
+      <rect id="Btn-2" data-name="Btn" width="135" height="52" rx="16" transform="translate(9 6)" fill="#688fa4"/>
+    </g>
+    <text id="Primitives" transform="translate(67.494 32)" fill="#fff" font-size="20" font-family="Tajawal-Bold, Tajawal" font-weight="700"><tspan x="-27.53" y="0">اضافة</tspan></text>
+  </g>
+</svg>
